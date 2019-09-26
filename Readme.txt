@@ -7,4 +7,6 @@
 7., -Delete Inventory
 8., -Delete Scan list
 9., -Read from Scanner TXT file
+10., Feltételes formázás duplikációk
+
 
