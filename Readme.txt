@@ -8,5 +8,7 @@
 8., -Delete Scan list
 9., -Read from Scanner TXT file
 10., Feltételes formázás duplikációk
+11., Barcode oszlop formázás szövegesre
+
 
 
