@@ -1,0 +1,23 @@
+2019-09-30 14:20:56	DESKTOP-424KP6V	teszt	err	uzenet
+2019-09-30 14:20:56	DESKTOP-424KP6V	unknown-caller	emerg	uzenet
+2019-09-30 14:20:56	DESKTOP-424KP6V	unknown-caller	err	uzenet
+2019-09-30 14:20:56	DESKTOP-424KP6V	unknown-caller	err	uzenet
+2019-09-30 14:20:56	DESKTOP-424KP6V	unknown-caller	err	uzenet
+2019-09-30 14:20:56	DESKTOP-424KP6V	unknown-caller	err	uzenet
+2019-09-30 14:23:03	DESKTOP-424KP6V	teszt	err	uzenet
+2019-09-30 14:23:03	DESKTOP-424KP6V	unknown-caller	emerg	uzenet
+2019-09-30 14:23:03	DESKTOP-424KP6V	unknown-caller	err	uzenet
+2019-09-30 14:23:03	DESKTOP-424KP6V	unknown-caller	err	uzenet
+2019-09-30 14:23:03	DESKTOP-424KP6V	unknown-caller	err	uzenet
+2019-09-30 14:23:03	DESKTOP-424KP6V	unknown-caller	err	uzenet
+2019-09-30 14:26:12	DESKTOP-424KP6V	Sub:SetPlattform	info	OS: Windows
+2019-09-30 14:26:12	DESKTOP-424KP6V	Sub:SetPlattform	info	Office: 32bit
+2019-09-30 14:26:39	DESKTOP-424KP6V	Sub:SetPlattform	info	OS: Windows
+2019-09-30 14:26:39	DESKTOP-424KP6V	Sub:SetPlattform	info	Office: 32bit
+2019-09-30 14:26:54	DESKTOP-424KP6V	Sub:DeleteScannedData	info	Delete scanned data has been interrupted because scanned data was not deleted.
+2019-09-30 14:33:55	DESKTOP-424KP6V	Sub:SetPlattform	info	OS: Windows
+2019-09-30 14:33:55	DESKTOP-424KP6V	Sub:SetPlattform	info	Office: 32bit
+2019-09-30 14:45:13	DESKTOP-424KP6V	Sub:SetPlattform	info	OS: Windows
+2019-09-30 14:45:13	DESKTOP-424KP6V	Sub:SetPlattform	info	Office: 32bit
+2019-09-30 14:45:22	DESKTOP-424KP6V	Sub:DeleteScannedData	debug	Delete scanned data has been interrupted because scanned data was not deleted.
+2019-09-30 14:45:25	DESKTOP-424KP6V	ReadFromFile	debug	Read from file has been interrupted because scanned data was not deleted.
