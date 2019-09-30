@@ -21,3 +21,6 @@
 2019-09-30 14:45:13	DESKTOP-424KP6V	Sub:SetPlattform	info	Office: 32bit
 2019-09-30 14:45:22	DESKTOP-424KP6V	Sub:DeleteScannedData	debug	Delete scanned data has been interrupted because scanned data was not deleted.
 2019-09-30 14:45:25	DESKTOP-424KP6V	ReadFromFile	debug	Read from file has been interrupted because scanned data was not deleted.
+2019-09-30 15:08:02	DESKTOP-424KP6V	Sub:SetPlattform	info	OS: Windows
+2019-09-30 15:08:02	DESKTOP-424KP6V	Sub:SetPlattform	info	Office: 32bit
+2019-09-30 15:24:22	DESKTOP-424KP6V	ReadFromFile	debug	Read from file has been interrupted because scanned data was not deleted.
