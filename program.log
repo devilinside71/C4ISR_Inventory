@@ -24,21 +24,3 @@
 2019-09-30 15:08:02	DESKTOP-424KP6V	Sub:SetPlattform	info	OS: Windows
 2019-09-30 15:08:02	DESKTOP-424KP6V	Sub:SetPlattform	info	Office: 32bit
 2019-09-30 15:24:22	DESKTOP-424KP6V	ReadFromFile	debug	Read from file has been interrupted because scanned data was not deleted.
-2019-10-01 05:21:43	DESKTOP-424KP6V	Sub:SetPlattform	info	OS: Windows
-2019-10-01 05:21:43	DESKTOP-424KP6V	Sub:SetPlattform	info	Office: 32bit
-2019-10-01 14:08:02	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value for PathToLogfile: C:\Users\tamas.laszlo9\Documents\GitHub\C4ISR_Inventory\program.log
-2019-10-01 14:08:02	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value for Delimiter: 	
-2019-10-01 14:08:02	DESKTOP-424KP6V	C4ISR_Inventory.GetPath2Inventory	debug	Path to inventory file: C:\Users\tamas.laszlo9\Documents\GitHub\C4ISR_Inventory\HUNC4-RO-DD-00019-01-03-IRIS-H01-Inventory.xlsx
-2019-10-01 14:08:06	DESKTOP-424KP6V	Add2Inventory	debug	Cover page
-2019-10-01 14:08:06	DESKTOP-424KP6V	Add2Inventory	debug	Revisions
-2019-10-01 14:08:06	DESKTOP-424KP6V	Add2Inventory	debug	Acceptance
-2019-10-01 14:08:06	DESKTOP-424KP6V	Add2Inventory	debug	Pack Information
-2019-10-01 14:08:06	DESKTOP-424KP6V	Add2Inventory	debug	IRIS-H01-Inventory
-2019-10-01 14:08:06	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Inventory sheet name: IRIS-H01-Inventory
-2019-10-01 14:10:35	DESKTOP-424KP6V	C4ISR_Inventory.GetPath2Inventory	debug	Path to inventory file: C:\Users\tamas.laszlo9\Documents\GitHub\C4ISR_Inventory\HUNC4-RO-DD-00019-01-03-IRIS-H01-Inventory.xlsx
-2019-10-01 14:10:37	DESKTOP-424KP6V	Add2Inventory	debug	SheetCover page found
-2019-10-01 14:10:37	DESKTOP-424KP6V	Add2Inventory	debug	SheetRevisions found
-2019-10-01 14:10:37	DESKTOP-424KP6V	Add2Inventory	debug	SheetAcceptance found
-2019-10-01 14:10:37	DESKTOP-424KP6V	Add2Inventory	debug	SheetPack Information found
-2019-10-01 14:10:37	DESKTOP-424KP6V	Add2Inventory	debug	SheetIRIS-H01-Inventory found
-2019-10-01 14:10:37	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Inventory sheet name: IRIS-H01-Inventory
