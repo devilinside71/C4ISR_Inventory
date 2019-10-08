@@ -42,3 +42,8 @@
 2019-10-01 14:10:37	DESKTOP-424KP6V	Add2Inventory	debug	SheetPack Information found
 2019-10-01 14:10:37	DESKTOP-424KP6V	Add2Inventory	debug	SheetIRIS-H01-Inventory found
 2019-10-01 14:10:37	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Inventory sheet name: IRIS-H01-Inventory
+2019-10-08 13:10:34	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value for PathToLogfile: C:\Users\tamas.laszlo9\Documents\GitHub\C4ISR_Inventory\program.log
+2019-10-08 13:10:34	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value for Delimiter: 	
+2019-10-08 13:10:34	DESKTOP-424KP6V	C4ISR_Inventory.SetPlattform	info	Program start
+2019-10-08 13:10:34	DESKTOP-424KP6V	C4ISR_Inventory.SetPlattform	info	OS: Windows
+2019-10-08 13:10:34	DESKTOP-424KP6V	C4ISR_Inventory.SetPlattform	info	Office: 32bit
