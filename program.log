@@ -52,3 +52,11 @@
 2019-10-09 15:00:56	DESKTOP-424KP6V	C4ISR_Inventory.SetPlattform	info	Program start
 2019-10-09 15:00:56	DESKTOP-424KP6V	C4ISR_Inventory.SetPlattform	info	OS: Windows
 2019-10-09 15:00:56	DESKTOP-424KP6V	C4ISR_Inventory.SetPlattform	info	Office: 32bit
+2019-10-09 15:05:59	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value for PathToLogfile: C:\Users\tamas.laszlo9\Documents\GitHub\C4ISR_Inventory\program.log
+2019-10-09 15:05:59	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value for Delimiter: 	
+2019-10-09 15:05:59	DESKTOP-424KP6V	C4ISR_Inventory.SetPlattform	info	Program start
+2019-10-09 15:05:59	DESKTOP-424KP6V	C4ISR_Inventory.SetPlattform	info	OS: Windows
+2019-10-09 15:05:59	DESKTOP-424KP6V	C4ISR_Inventory.SetPlattform	info	Office: 32bit
+2019-10-09 15:09:18	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value for PathToLogfile: C:\Users\tamas.laszlo9\Documents\GitHub\C4ISR_Inventory\program.log
+2019-10-09 15:09:18	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value for Delimiter: 	
+2019-10-09 15:09:18	DESKTOP-424KP6V	C4ISR_Inventory.SetPlattform	info	Program start
