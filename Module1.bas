@@ -1,4 +1,5 @@
 Attribute VB_Name = "Module1"
+Option Explicit
 Private clLogger As New LoggerClass
 Private clMotorola As New MotorolaCS3070Class
 
@@ -19,11 +20,5 @@ End Sub
 
 Sub testMotorolaCS3070ClassMac()
   'Test for Class MotorolaCS3070Class Mac
-  Dim textdata() As String
-  Dim i As Long
-  textdata = clMotorola.SelectFile(False, "Select File")
-  For i = 1 To UBound(textdata)
-      clLogger.logDEBUG "ReadTextData test: >> " & Trim(CStr(i)) & ": " & textdata(i), "testMotorolaCS3070ClassMac"
-Next i
-'    clLogger.logDEBUG clMotorola.SelectFile(False, "Select File"), "testMotorolaCS3070ClassMac"
+
 End Sub

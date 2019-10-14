@@ -13,7 +13,7 @@ Private m_strPathToLogfile As String
 Private Const cmstrPathToLogfile As String = "program.log"
 Private m_strDelimiter As String
 Private Const cmstrDelimiter As String = ", "
-Private Const cmbDebugMode As Boolean = False
+Private Const cmbDebugMode As Boolean = True
 
 Public Property Let PathToLogfile(ByRef path2logfile As String)
   
@@ -21,7 +21,7 @@ Public Property Let PathToLogfile(ByRef path2logfile As String)
   
   m_strPathToLogfile = path2logfile
   If cmbDebugMode Then
-    logDEBUG "ProjectClass.PathToLogfile has been set to: " & m_strPathToLogfile, "LoggerClass.PathToLogfile"
+    Call logDEBUG("ProjectClass.PathToLogfile has been set to: " & m_strPathToLogfile, "LoggerClass.PathToLogfile")
   End If
 PROP_EXIT:
   Exit Property
@@ -49,7 +49,7 @@ Public Property Let Delimiter(ByRef delim As String)
   
   m_strDelimiter = delim
   If cmbDebugMode Then
-    logDEBUG "ProjectClass.Delimiter has been set to: " & m_strDelimiter, "LoggerClass.Delimiter"
+    Call logDEBUG("ProjectClass.Delimiter has been set to: " & m_strDelimiter, "LoggerClass.Delimiter")
   End If
   
 PROP_EXIT:
@@ -73,19 +73,18 @@ PROP_ERR:
   Resume PROP_EXIT
 End Property
 Private Sub Class_Initialize()
+  Debug.Print "Class ProjectClass initialized"
   
   m_strPathToLogfile = ActiveWorkbook.Path & Application.PathSeparator & cmstrPathToLogfile
   m_strDelimiter = Chr(9)
   If cmbDebugMode Then
-    Debug.Print "Class LoggerClass initialized"
-    logDEBUG "LoggerClass Default value for PathToLogfile: " & m_strPathToLogfile, "LoggerClass.Class_Initialize"
-    logDEBUG "LoggerClass Default value for Delimiter: " & m_strDelimiter, "LoggerClass.Class_Initialize"
+    Call logDEBUG("ProjectClass Default value for PathToLogfile: " & m_strPathToLogfile, "LoggerClass.Class_Initialize")
+    Call logDEBUG("ProjectClass Default value for Delimiter: " & m_strDelimiter, "LoggerClass.Class_Initialize")
   End If
 End Sub
 Private Sub Class_Terminate()
   If cmbDebugMode Then
-    Debug.Print "Class LoggerClass terminated"
-    logDEBUG "Class LoggerClass terminated", "LoggerClass.Class_Terminate"
+    Call logDEBUG("Class ProjectClass terminated", "LoggerClass.Class_Terminate")
   End If
 End Sub
 Sub Reset()
@@ -93,45 +92,45 @@ Sub Reset()
   m_strPathToLogfile = cmstrPathToLogfile
   m_strDelimiter = cmstrDelimiter
   If cmbDebugMode Then
-    logDEBUG "ProjectClass Default value for PathToLogfile: " & m_strPathToLogfile, "LoggerClass.Reset"
-    logDEBUG "ProjectClass Default value for Delimiter: " & m_strDelimiter, "LoggerClass.Reset"
+    Call logDEBUG("ProjectClass Default value for PathToLogfile: " & m_strPathToLogfile, "LoggerClass.Reset")
+    Call logDEBUG("ProjectClass Default value for Delimiter: " & m_strDelimiter, "LoggerClass.Reset")
   End If
 End Sub
 Sub logEMERG(ByRef message As String, Optional ByRef callername = "unknown-caller")
   'A panic condition.'Messages that contain information normally of use only when debugging a program.
-  WriteLog "emerg", message, callername
+  Call WriteLog("emerg", message, callername)
 End Sub
 Sub logALERT(ByRef message As String, Optional ByRef callername = "unknown-caller")
   'Action must be taken immediately'Messages that contain information normally of use only when debugging a program.
   'A condition that should be corrected immediately, such as a corrupted system database.
-  WriteLog "alert", message, callername
+  Call WriteLog("alert", message, callername)
 End Sub
 Sub logCRITICAL(ByRef message As String, Optional ByRef callername = "unknown-caller")
   'Critical conditions'Messages that contain information normally of use only when debugging a program.
   'Hard device errors.
-  WriteLog "crit", message, callername
+  Call WriteLog("crit", message, callername)
 End Sub
 Sub logERROR(ByRef message As String, Optional ByRef callername = "unknown-caller")
   'Error conditions'Messages that contain information normally of use only when debugging a program.
-  WriteLog "err", message, callername
+  Call WriteLog("err", message, callername)
 End Sub
 Sub logWARNING(ByRef message As String, Optional ByRef callername = "unknown-caller")
   'Warning conditions'Messages that contain information normally of use only when debugging a program.
-  WriteLog "warn", message, callername
+  Call WriteLog("warn", message, callername)
 End Sub
 Sub logNOTICE(ByRef message As String, Optional ByRef callername = "unknown-caller")
   'Normal but significant conditions'Messages that contain information normally of use only when debugging a program.
   'Conditions that are not error conditions, but that may require special handling.
-  WriteLog "notice", message, callername
+  Call WriteLog("notice", message, callername)
 End Sub
 Sub logINFO(ByRef message As String, Optional ByRef callername = "unknown-caller")
   'Informational messages'Messages that contain information normally of use only when debugging a program.
-  WriteLog "info", message, callername
+  Call WriteLog("info", message, callername)
 End Sub
 Sub logDEBUG(ByRef message As String, Optional ByRef callername = "unknown-caller")
   'Debug-level messages'Messages that contain information normally of use only when debugging a program.
   'Messages that contain information normally of use only when debugging a program.
-  WriteLog "debug", message, callername
+  Call WriteLog("debug", message, callername)
 End Sub
 Private Sub WriteLog(ByRef errlevel As String, ByRef message As String, ByRef callername)
   Dim sTimeStamp As String
@@ -175,9 +174,8 @@ Private Function GetUserNameMac() As String
 End Function
 
 Private Function GetComputerNameMac() As String
-  'MAC code here
+  GetComputerNameMac = vbNullString
 End Function
-
 
 
 
