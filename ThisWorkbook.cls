@@ -7,11 +7,17 @@ Attribute VB_GlobalNameSpace = False
 Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = True
+Option Explicit
 Private Sub Workbook_BeforeClose(Cancel As Boolean)
     Call DeleteRibbonsC4ISR
 End Sub
 
 Private Sub Workbook_Open()
+    Application.ScreenUpdating = False
+    ActiveWindow.Visible = False
+    SplashUserForm.Show
+    Windows(ThisWorkbook.Name).Visible = True
+    Application.ScreenUpdating = True
     Call AddRibbonsC4ISR
-    Call SetPlattform
+    Call C4ISR_Inventory_Start
 End Sub
