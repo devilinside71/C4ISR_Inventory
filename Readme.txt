@@ -17,9 +17,6 @@
 
 TODO:
 Mac keyboard
-Mac FileOpen???
-Splash screen
-Rewrite
 
 
 
