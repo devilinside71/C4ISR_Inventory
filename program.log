@@ -116,3 +116,56 @@
 2019-10-17 11:07:02	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value for PathToLogfile: C:\Users\tamas.laszlo9\Documents\GitHub\C4ISR_Inventory\program.log
 2019-10-17 11:07:02	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value for Delimiter: 	
 2019-10-17 11:07:02	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win32 mode
+2019-10-17 13:08:19	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: C:\Users\tamas.laszlo9\Documents\GitHub\C4ISR_Inventory\program.log
+2019-10-17 13:08:19	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-10-17 13:08:19	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win32 mode
+2019-10-17 13:14:20	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: C:\Users\tamas.laszlo9\Documents\GitHub\C4ISR_Inventory\program.log
+2019-10-17 13:14:20	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-10-17 13:14:20	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win32 mode
+2019-10-17 13:24:41	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win32 mode
+2019-10-17 13:25:49	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: C:\Users\tamas.laszlo9\Documents\GitHub\C4ISR_Inventory\program.log
+2019-10-17 13:25:49	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-10-17 13:25:49	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win32 mode
+2019-10-17 13:26:01	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: C:\Users\tamas.laszlo9\Documents\GitHub\C4ISR_Inventory\program.log
+2019-10-17 13:26:01	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-10-17 13:26:01	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
+2019-10-17 13:26:01	DESKTOP-424KP6V	MotorolaCS3070Class.SelectFile	debug	Select file WIN mode
+2019-10-17 13:26:04	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	Scanner data TXT file: C:\Users\tamas.laszlo9\Documents\BARCODES.TXT
+2019-10-17 13:26:04	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	1: 000006915834
+2019-10-17 13:26:04	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	2: 000006915834
+2019-10-17 13:26:04	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	3: 000006915834
+2019-10-17 13:26:04	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	4: CN
+2019-10-17 13:26:04	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	5: 1PCS3070-SR10007WW
+2019-10-17 13:26:04	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	6: S18341522503164
+2019-10-17 13:26:04	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	7: 2PP
+2019-10-17 13:26:04	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	8: D07DEC18
+2019-10-17 13:26:04	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	9: 000006819248
+2019-10-17 13:26:04	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	10: 000006819231
+2019-10-17 13:26:04	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	11: Y3Y80EA#ARL
+2019-10-17 13:26:04	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	12: CZC737843V
+2019-10-17 13:26:04	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	13: 000006819309
+2019-10-17 13:26:04	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	14: Y3Y80EA#ARL
+2019-10-17 13:26:04	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	15: CZC7519DWD
+2019-10-17 13:26:04	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	16: 10191158
+2019-10-17 13:26:04	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	17: 169.254.52.211
+2019-10-17 13:26:04	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	18: 5C8A389634D3
+2019-10-17 13:32:38	DESKTOP-424KP6V	MotorolaCS3070Class.SelectFile	debug	Select file WIN mode
+2019-10-17 13:32:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	Scanner data TXT file: C:\Users\tamas.laszlo9\Documents\BARCODES.TXT
+2019-10-17 13:32:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	1: 000006915834
+2019-10-17 13:32:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	2: 000006915834
+2019-10-17 13:32:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	3: 000006915834
+2019-10-17 13:32:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	4: CN
+2019-10-17 13:32:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	5: 1PCS3070-SR10007WW
+2019-10-17 13:32:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	6: S18341522503164
+2019-10-17 13:32:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	7: 2PP
+2019-10-17 13:32:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	8: D07DEC18
+2019-10-17 13:32:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	9: 000006819248
+2019-10-17 13:32:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	10: 000006819231
+2019-10-17 13:32:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	11: Y3Y80EA#ARL
+2019-10-17 13:32:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	12: CZC737843V
+2019-10-17 13:32:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	13: 000006819309
+2019-10-17 13:32:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	14: Y3Y80EA#ARL
+2019-10-17 13:32:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	15: CZC7519DWD
+2019-10-17 13:32:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	16: 10191158
+2019-10-17 13:32:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	17: 169.254.52.211
+2019-10-17 13:32:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	18: 5C8A389634D3

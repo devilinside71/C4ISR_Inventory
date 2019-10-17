@@ -20,6 +20,15 @@ End Sub
 
 Sub testMotorolaCS3070ClassMac()
   'Test for Class MotorolaCS3070Class Mac
+  
+  
+  'Description
+  'Created by: Laszlo Tamas
+  'Licence: MIT
+
+
+
+'---------------------------------
 #If Mac Then
   'Mac code here
 #ElseIf Win64 Then
@@ -27,8 +36,39 @@ Sub testMotorolaCS3070ClassMac()
 #End If
 
 
+'---------------------------------
 #If Mac Then
   'Mac code here
 #Else
 #End If
+
+'---------------------------------
+#If Mac Then
+  'Mac code here
+#Else
+#End If
+
+'---------------------------------
+#If Mac Then
+  'Mac code here
+#Else
+  #If VBA7 Then
+  #Else
+  #End If
+#End If
+
+
+'---------------------------------
+#If Mac Then
+  'Mac code here
+#Else
+  #If VBA7 Then
+    #If Win64 Then
+    #Else
+    #End If
+  #Else
+  #End If
+#End If
+
+
 End Sub
