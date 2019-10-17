@@ -20,5 +20,15 @@ End Sub
 
 Sub testMotorolaCS3070ClassMac()
   'Test for Class MotorolaCS3070Class Mac
+#If Mac Then
+  'Mac code here
+#ElseIf Win64 Then
+#ElseIf Win32 Then
+#End If
 
+
+#If Mac Then
+  'Mac code here
+#Else
+#End If
 End Sub

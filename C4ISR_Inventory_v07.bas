@@ -16,11 +16,17 @@ Sub C4ISR_Inventory_Start()
   'Description
   'Parameters:
   'Created by: Laszlo Tamas
-
+  Dim sMode As String
 
   On Error GoTo PROC_ERR
-
-  clLogger.logINFO "Program start", "C4ISR_Inventory.C4ISR_Inventory_Start"
+  #If Mac Then
+    sMode = "Mac"
+  #ElseIf Win64 Then
+    sMode = "Win64"
+  #ElseIf Win32 Then
+    sMode = "Win32"
+  #End If
+  clLogger.logINFO "Program start " & sMode, "C4ISR_Inventory.C4ISR_Inventory_Start"
 
   '---------------
 PROC_EXIT:

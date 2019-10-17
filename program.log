@@ -58,3 +58,28 @@
 2019-10-14 13:07:39	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet name: IRIS-H01-Inventory
 2019-10-14 13:07:39	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Inventory sheet: C:\Users\tamas.laszlo9\Documents\GitHub\C4ISR_Inventory\HUNC4-RO-DD-00019-01-03-IRIS-H01-Inventory.xlsx>IRIS-H01-Inventory
 2019-10-14 13:07:39	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Inventory items copied into database
+2019-10-17 10:07:39	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value for PathToLogfile: C:\Users\tamas.laszlo9\Documents\GitHub\C4ISR_Inventory\program.log
+2019-10-17 10:07:39	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value for Delimiter: 	
+2019-10-17 10:07:39	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start
+2019-10-17 10:09:29	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value for PathToLogfile: C:\Users\tamas.laszlo9\Documents\GitHub\C4ISR_Inventory\program.log
+2019-10-17 10:09:29	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value for Delimiter: 	
+2019-10-17 10:09:29	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start
+2019-10-17 10:19:45	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value for PathToLogfile: C:\Users\tamas.laszlo9\Documents\GitHub\C4ISR_Inventory\program.log
+2019-10-17 10:19:45	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value for Delimiter: 	
+2019-10-17 10:19:45	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start
+2019-10-17 10:19:58	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value for PathToLogfile: C:\Users\tamas.laszlo9\Documents\GitHub\C4ISR_Inventory\program.log
+2019-10-17 10:19:58	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value for Delimiter: 	
+2019-10-17 10:19:58	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start
+2019-10-17 10:20:21	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value for PathToLogfile: C:\Users\tamas.laszlo9\Documents\GitHub\C4ISR_Inventory\program.log
+2019-10-17 10:20:21	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value for Delimiter: 	
+2019-10-17 10:20:21	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start
+2019-10-17 10:29:02	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value for PathToLogfile: C:\Users\tamas.laszlo9\Documents\GitHub\C4ISR_Inventory\program.log
+2019-10-17 10:29:02	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value for Delimiter: 	
+2019-10-17 10:29:02	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start
+2019-10-17 10:32:46	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value for PathToLogfile: C:\Users\tamas.laszlo9\Documents\GitHub\C4ISR_Inventory\program.log
+2019-10-17 10:32:46	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value for Delimiter: 	
+2019-10-17 10:32:46	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start Win32
+2019-10-17 10:33:29	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start Win32
+2019-10-17 10:34:57	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value for PathToLogfile: C:\Users\tamas.laszlo9\Documents\GitHub\C4ISR_Inventory\program.log
+2019-10-17 10:34:57	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value for Delimiter: 	
+2019-10-17 10:34:57	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start Win32
