@@ -282,3 +282,45 @@
 2019-10-18 05:32:40	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
 2019-10-18 05:32:40	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
 2019-10-18 05:32:40	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2019-10-18 13:08:45	macos	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: /Users/macos/Documents/GitHub/C4ISR_Inventory/program.log
+2019-10-18 13:08:45	macos	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-10-18 13:08:45	macos	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Mac mode
+2019-10-18 13:08:52	macos	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: /Users/macos/Documents/GitHub/C4ISR_Inventory/program.log
+2019-10-18 13:08:52	macos	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-10-18 13:08:52	macos	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
+2019-10-18 13:08:52	macos	MotorolaCS3070Class.SwitchToHUN	notice	Switch keyboard not implemented yet
+2019-10-18 13:08:54	macos	MotorolaCS3070Class.SwitchToENG	notice	Switch keyboard not implemented yet
+2019-10-18 13:09:54	macos	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: /Users/macos/Documents/GitHub/C4ISR_Inventory/program.log
+2019-10-18 13:09:54	macos	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-10-18 13:09:54	macos	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
+2019-10-18 13:09:54	macos	MotorolaCS3070Class.SelectFileMac	debug	Select file Mac mode
+2019-10-18 13:10:11	macos	MotorolaCS3070Class.SelectFileMac	debug	Selected: /Users/macos/Documents/GitHub/C4ISR_Inventory/HUNC4-RO-DD-00019-01-03-IRIS-H01-Inventory.xlsx
+2019-10-18 13:10:18	macos	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: /Users/macos/Documents/GitHub/C4ISR_Inventory/program.log
+2019-10-18 13:10:23	macos	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-10-18 13:10:23	macos	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Cover page
+2019-10-18 13:10:23	macos	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Revisions
+2019-10-18 13:10:23	macos	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Acceptance
+2019-10-18 13:10:23	macos	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Pack Information
+2019-10-18 13:10:23	macos	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: IRIS-H01-Inventory
+2019-10-18 13:10:23	macos	C4ISR_Inventory.Add2Inventory	debug	Inventory sheet: /Users/macos/Documents/GitHub/C4ISR_Inventory/HUNC4-RO-DD-00019-01-03-IRIS-H01-Inventory.xlsx>IRIS-H01-Inventory
+2019-10-18 13:10:28	macos	C4ISR_Inventory.AddToInventory	debug	Inventory items copied into database
+2019-10-18 13:10:46	macos	C4ISR_Inventory.Add2FullInventory	debug	Last row of Full Inventory sheet: 841
+2019-10-18 13:10:46	macos	MotorolaCS3070Class.SelectFileMac	debug	Select file Mac mode
+2019-10-18 13:10:57	macos	MotorolaCS3070Class.SelectFileMac	debug	Selected: /Users/macos/Documents/GitHub/C4ISR_Inventory/HUNC4-RO-DD-00019-01-03-IRIS-H01-Inventory.xlsx
+2019-10-18 13:11:10	macos	C4ISR_Inventory.Add2FullInventory	debug	Continue, but IRIS-H01 is in the list.
+2019-10-18 13:11:10	macos	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Cover page
+2019-10-18 13:11:10	macos	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Revisions
+2019-10-18 13:11:11	macos	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Acceptance
+2019-10-18 13:11:11	macos	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Pack Information
+2019-10-18 13:11:11	macos	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: IRIS-H01-Inventory
+2019-10-18 13:11:11	macos	C4ISR_Inventory.AddToFullInventory	debug	Inventory sheet: /Users/macos/Documents/GitHub/C4ISR_Inventory/HUNC4-RO-DD-00019-01-03-IRIS-H01-Inventory.xlsx>IRIS-H01-Inventory
+2019-10-18 13:11:11	macos	C4ISR_Inventory.AddToFullInventory	debug	Inventory items copied into database
+2019-10-18 13:12:54	macos	MotorolaCS3070Class.SelectFileMac	debug	Select file Mac mode
+2019-10-18 13:13:04	macos	MotorolaCS3070Class.SelectFileMac	debug	Selected: /Users/macos/Documents/GitHub/C4ISR_Inventory/HUNC4-RO-DD-00019-01-03-IRIS-H01-Inventory.xlsx
+2019-10-18 13:13:10	macos	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Cover page
+2019-10-18 13:13:13	macos	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Revisions
+2019-10-18 13:13:13	macos	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Acceptance
+2019-10-18 13:13:13	macos	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Pack Information
+2019-10-18 13:13:13	macos	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: IRIS-H01-Inventory
+2019-10-18 13:13:13	macos	C4ISR_Inventory.Add2Inventory	debug	Inventory sheet: /Users/macos/Documents/GitHub/C4ISR_Inventory/HUNC4-RO-DD-00019-01-03-IRIS-H01-Inventory.xlsx>IRIS-H01-Inventory
+2019-10-18 13:13:18	macos	C4ISR_Inventory.AddToInventory	debug	Inventory items copied into database
