@@ -17,6 +17,7 @@
 
 TODO:
 Mac keyboard
+Mac Open Inventory C4ISR_Inventory.AddToFullInventory and C4ISR_Inventory.AddToInventory
 
 
 
