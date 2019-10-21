@@ -324,3 +324,6 @@
 2019-10-18 13:13:13	macos	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: IRIS-H01-Inventory
 2019-10-18 13:13:13	macos	C4ISR_Inventory.Add2Inventory	debug	Inventory sheet: /Users/macos/Documents/GitHub/C4ISR_Inventory/HUNC4-RO-DD-00019-01-03-IRIS-H01-Inventory.xlsx>IRIS-H01-Inventory
 2019-10-18 13:13:18	macos	C4ISR_Inventory.AddToInventory	debug	Inventory items copied into database
+2019-10-21 06:19:14	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: C:\Users\tamas.laszlo9\Documents\GitHub\C4ISR_Inventory\program.log
+2019-10-21 06:19:14	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-10-21 06:19:14	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win32 mode
