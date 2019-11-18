@@ -327,3 +327,415 @@
 2019-10-21 06:19:14	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: C:\Users\tamas.laszlo9\Documents\GitHub\C4ISR_Inventory\program.log
 2019-10-21 06:19:14	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
 2019-10-21 06:19:14	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win32 mode
+2019-11-18 05:40:06	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-11-18 05:40:06	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-11-18 05:40:06	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win32 mode
+2019-11-18 05:59:42	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-11-18 05:59:42	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-11-18 05:59:42	DESKTOP-424KP6V	M3Class.Class_Initialize	debug	Class M3Class initialized
+2019-11-18 05:59:42	DESKTOP-424KP6V	M3Class.SelectFile	debug	Select file WIN mode
+2019-11-18 06:00:19	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-11-18 06:00:19	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 1: {\pwd2\ansi{\*\pwdcomment 
+2019-11-18 06:00:19	DESKTOP-424KP6V	M3Class.GetBarcodeDataFromBarcodeLine	err	Subscript out of range
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 1: 
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 2: ************************************************************************
+2019-11-18 06:00:19	DESKTOP-424KP6V	M3Class.GetBarcodeDataFromBarcodeLine	err	Subscript out of range
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 2: 
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 3: * 
+2019-11-18 06:00:19	DESKTOP-424KP6V	M3Class.GetBarcodeDataFromBarcodeLine	err	Subscript out of range
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 3: 
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 4: * This is a Microsoft WordPad document. 
+2019-11-18 06:00:19	DESKTOP-424KP6V	M3Class.GetBarcodeDataFromBarcodeLine	err	Subscript out of range
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 4: 
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 5: * 
+2019-11-18 06:00:19	DESKTOP-424KP6V	M3Class.GetBarcodeDataFromBarcodeLine	err	Subscript out of range
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 5: 
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 6: * For further details visit the Microsoft Windows CE web site, at
+2019-11-18 06:00:19	DESKTOP-424KP6V	M3Class.GetBarcodeDataFromBarcodeLine	err	Subscript out of range
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 6: 
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 7: *         http://www.microsoft.com/windowsce
+2019-11-18 06:00:19	DESKTOP-424KP6V	M3Class.GetBarcodeDataFromBarcodeLine	err	Subscript out of range
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 7: 
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 8: * Or search MSDN for 'Microsoft WordPad'
+2019-11-18 06:00:19	DESKTOP-424KP6V	M3Class.GetBarcodeDataFromBarcodeLine	err	Subscript out of range
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 8: 
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 9: * 
+2019-11-18 06:00:19	DESKTOP-424KP6V	M3Class.GetBarcodeDataFromBarcodeLine	err	Subscript out of range
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 9: 
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 10: ************************************************************************
+2019-11-18 06:00:19	DESKTOP-424KP6V	M3Class.GetBarcodeDataFromBarcodeLine	err	Subscript out of range
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 10: 
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 11: }\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+2019-11-18 06:00:19	DESKTOP-424KP6V	M3Class.GetBarcodeDataFromBarcodeLine	err	Subscript out of range
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 11: 
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 12: {\colortbl ;}
+2019-11-18 06:00:19	DESKTOP-424KP6V	M3Class.GetBarcodeDataFromBarcodeLine	err	Subscript out of range
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 12: 
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 13: \viewkind4\uc1\pard\cf0\f0\fs20 CZC737843V\par
+2019-11-18 06:00:19	DESKTOP-424KP6V	M3Class.GetBarcodeDataFromBarcodeLine	err	Subscript out of range
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 13: 
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 14: Y3Y80EA#ARL\par
+2019-11-18 06:00:19	DESKTOP-424KP6V	M3Class.GetBarcodeDataFromBarcodeLine	err	Subscript out of range
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 14: 
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 15: 1044\par
+2019-11-18 06:00:19	DESKTOP-424KP6V	M3Class.GetBarcodeDataFromBarcodeLine	err	Subscript out of range
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 15: 
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 16: 4VDHU\par
+2019-11-18 06:00:19	DESKTOP-424KP6V	M3Class.GetBarcodeDataFromBarcodeLine	err	Subscript out of range
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 16: 
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 17: 00108828615352125984\par
+2019-11-18 06:00:19	DESKTOP-424KP6V	M3Class.GetBarcodeDataFromBarcodeLine	err	Subscript out of range
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 17: 
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 18: 4006381316132\par
+2019-11-18 06:00:19	DESKTOP-424KP6V	M3Class.GetBarcodeDataFromBarcodeLine	err	Subscript out of range
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 18: 
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 19: }
+2019-11-18 06:00:19	DESKTOP-424KP6V	M3Class.GetBarcodeDataFromBarcodeLine	err	Subscript out of range
+2019-11-18 06:00:19	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 19: 
+2019-11-18 06:00:19	DESKTOP-424KP6V	M3Class.Class_Terminate	debug	Class M3Class terminated
+2019-11-18 06:00:19	DESKTOP-424KP6V	LoggerClass.Class_Terminate	debug	Class ProjectClass terminated
+2019-11-18 06:02:05	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-11-18 06:02:05	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-11-18 06:02:05	DESKTOP-424KP6V	M3Class.Class_Initialize	debug	Class M3Class initialized
+2019-11-18 06:02:05	DESKTOP-424KP6V	M3Class.SelectFile	debug	Select file WIN mode
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 1: {\pwd2\ansi{\*\pwdcomment 
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 1: {\pwd2\ansi{\*\pwdcomment
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 2: ************************************************************************
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 2: ************************************************************************
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 3: * 
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 3: *
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 4: * This is a Microsoft WordPad document. 
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 4: * This is a Microsoft WordPad document.
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 5: * 
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 5: *
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 6: * For further details visit the Microsoft Windows CE web site, at
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 6: * For further details visit the Microsoft Windows CE web site, at
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 7: *         http://www.microsoft.com/windowsce
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 7: *         http://www.microsoft.com/windowsce
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 8: * Or search MSDN for 'Microsoft WordPad'
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 8: * Or search MSDN for 'Microsoft WordPad'
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 9: * 
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 9: *
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 10: ************************************************************************
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 10: ************************************************************************
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 11: }\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 11: }\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 12: {\colortbl ;}
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 12: {\colortbl ;}
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 13: \viewkind4\uc1\pard\cf0\f0\fs20 CZC737843V\par
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 13: \viewkind4\uc1d\cf0\f0\fs20 CZC737843V
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 14: Y3Y80EA#ARL\par
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 14: Y3Y80EA#ARL
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 15: 1044\par
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 15: 1044
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 16: 4VDHU\par
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 16: 4VDHU
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 17: 00108828615352125984\par
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 17: 00108828615352125984
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 18: 4006381316132\par
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 18: 4006381316132
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 19: }
+2019-11-18 06:02:08	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 19: }
+2019-11-18 06:02:08	DESKTOP-424KP6V	M3Class.Class_Terminate	debug	Class M3Class terminated
+2019-11-18 06:02:08	DESKTOP-424KP6V	LoggerClass.Class_Terminate	debug	Class ProjectClass terminated
+2019-11-18 06:03:52	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-11-18 06:03:52	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-11-18 06:03:52	DESKTOP-424KP6V	M3Class.Class_Initialize	debug	Class M3Class initialized
+2019-11-18 06:03:52	DESKTOP-424KP6V	M3Class.SelectFile	debug	Select file WIN mode
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 1: {\pwd2\ansi{\*\pwdcomment 
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 1: {\pwd2\ansi{\*\pwdcomment
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 2: ************************************************************************
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 2: ************************************************************************
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 3: * 
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 3: *
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 4: * This is a Microsoft WordPad document. 
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 4: * This is a Microsoft WordPad document.
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 5: * 
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 5: *
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 6: * For further details visit the Microsoft Windows CE web site, at
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 6: * For further details visit the Microsoft Windows CE web site, at
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 7: *         http://www.microsoft.com/windowsce
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 7: *         http://www.microsoft.com/windowsce
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 8: * Or search MSDN for 'Microsoft WordPad'
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 8: * Or search MSDN for 'Microsoft WordPad'
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 9: * 
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 9: *
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 10: ************************************************************************
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 10: ************************************************************************
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 11: }\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 11: }\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 12: {\colortbl ;}
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 12: {\colortbl ;}
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 13: \viewkind4\uc1\pard\cf0\f0\fs20 CZC737843V\par
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 13: \viewkind4\uc1d\cf0\f0\fs20 CZC737843V
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 14: Y3Y80EA#ARL\par
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 14: Y3Y80EA#ARL
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 15: 1044\par
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 15: 1044
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 16: 4VDHU\par
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 16: 4VDHU
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 17: 00108828615352125984\par
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 17: 00108828615352125984
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 18: 4006381316132\par
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 18: 4006381316132
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 19: }
+2019-11-18 06:03:55	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 19: }
+2019-11-18 06:03:55	DESKTOP-424KP6V	M3Class.Class_Terminate	debug	Class M3Class terminated
+2019-11-18 06:03:55	DESKTOP-424KP6V	LoggerClass.Class_Terminate	debug	Class ProjectClass terminated
+2019-11-18 06:35:23	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-11-18 06:35:23	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-11-18 06:35:23	DESKTOP-424KP6V	M3Class.Class_Initialize	debug	Class M3Class initialized
+2019-11-18 06:35:23	DESKTOP-424KP6V	M3Class.SelectFile	debug	Select file WIN mode
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 1: {\pwd2\ansi{\*\pwdcomment 
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 1: 
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 2: 
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 2: 
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 3: ************************************************************************
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 3: 
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 4: * 
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 4: 
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 5: * This is a Microsoft WordPad document. 
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 5: 
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 6: * 
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 6: 
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 7: * For further details visit the Microsoft Windows CE web site, at
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 7: 
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 8: *         http://www.microsoft.com/windowsce
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 8: 
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 9: * Or search MSDN for 'Microsoft WordPad'
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 9: 
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 10: * 
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 10: 
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 11: ************************************************************************
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 11: 
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 12: 
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 12: 
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 13: 
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 13: 
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 14: }\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 14: 
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 15: {\colortbl ;}
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 15: 
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 16: \viewkind4\uc1\pard\cf0\f0\fs20 CZC737843V\par
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 16: 
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 17: Y3Y80EA#ARL\par
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 17: Y3Y80EA#ARL
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 18: 1044\par
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 18: 1044
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 19: 4VDHU\par
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 19: 4VDHU
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 20: 00108828615352125984\par
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 20: 00108828615352125984
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 21: 4006381316132\par
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 21: 4006381316132
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 22: \par
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 22: 
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 23: }
+2019-11-18 06:35:26	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 23: 
+2019-11-18 06:35:26	DESKTOP-424KP6V	M3Class.Class_Terminate	debug	Class M3Class terminated
+2019-11-18 06:35:26	DESKTOP-424KP6V	LoggerClass.Class_Terminate	debug	Class ProjectClass terminated
+2019-11-18 06:40:05	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-11-18 06:40:05	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-11-18 06:40:05	DESKTOP-424KP6V	M3Class.Class_Initialize	debug	Class M3Class initialized
+2019-11-18 06:40:06	DESKTOP-424KP6V	M3Class.SelectFile	debug	Select file WIN mode
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 1: {\pwd2\ansi{\*\pwdcomment 
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 1: 
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 2: 
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 2: 
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 3: ************************************************************************
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 3: 
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 4: * 
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 4: 
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 5: * This is a Microsoft WordPad document. 
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 5: 
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 6: * 
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 6: 
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 7: * For further details visit the Microsoft Windows CE web site, at
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 7: 
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 8: *         http://www.microsoft.com/windowsce
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 8: 
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 9: * Or search MSDN for 'Microsoft WordPad'
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 9: 
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 10: * 
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 10: 
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 11: ************************************************************************
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 11: 
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 12: 
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 12: 
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 13: 
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 13: 
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 14: }\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 14: 
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 15: {\colortbl ;}
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 15: 
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 16: \viewkind4\uc1\pard\cf0\f0\fs20 CZC737843V\par
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 16:  CZC737843V
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 17: Y3Y80EA#ARL\par
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 17: Y3Y80EA#ARL
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 18: 1044\par
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 18: 1044
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 19: 4VDHU\par
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 19: 4VDHU
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 20: 00108828615352125984\par
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 20: 00108828615352125984
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 21: 4006381316132\par
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 21: 4006381316132
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 22: \par
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 22: 
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	ReadTextData test: >> 23: }
+2019-11-18 06:40:09	DESKTOP-424KP6V	testM3Class	debug	GetBarcodeDataFromBarcodeLine test: >> 23: 
+2019-11-18 06:40:09	DESKTOP-424KP6V	M3Class.Class_Terminate	debug	Class M3Class terminated
+2019-11-18 06:40:09	DESKTOP-424KP6V	LoggerClass.Class_Terminate	debug	Class ProjectClass terminated
+2019-11-18 06:41:43	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-11-18 06:41:43	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-11-18 06:41:43	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win32 mode
+2019-11-18 06:46:11	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-11-18 06:46:11	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-11-18 06:46:11	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win32 mode
+2019-11-18 06:57:19	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-11-18 06:57:19	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-11-18 06:57:19	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win32 mode
+2019-11-18 09:18:24	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Deleted scanned data range A2:A5000
+2019-11-18 09:18:24	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-11-18 09:18:24	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-11-18 09:18:24	DESKTOP-424KP6V	M3Class.Class_Initialize	debug	Class M3Class initialized
+2019-11-18 09:18:24	DESKTOP-424KP6V	M3Class.SelectFile	debug	Select file WIN mode
+2019-11-18 09:18:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Scanner data TXT file: F:\GitHub\C4ISR_Inventory\WinCE\Doc3.pwd
+2019-11-18 09:18:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	1: 
+2019-11-18 09:18:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	2: 
+2019-11-18 09:18:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	3: 
+2019-11-18 09:18:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	4: 
+2019-11-18 09:18:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	5: 
+2019-11-18 09:18:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	6: 
+2019-11-18 09:18:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	7: 
+2019-11-18 09:18:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	8: 
+2019-11-18 09:18:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	9: 
+2019-11-18 09:18:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	10: 
+2019-11-18 09:18:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	11: 
+2019-11-18 09:18:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	12: 
+2019-11-18 09:18:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	13: 
+2019-11-18 09:18:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	14: 
+2019-11-18 09:18:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	15: 
+2019-11-18 09:18:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	16: 
+2019-11-18 09:18:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	17: 
+2019-11-18 09:18:46	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Deleted scanned data range A2:A5000
+2019-11-18 09:18:46	DESKTOP-424KP6V	M3Class.SelectFile	debug	Select file WIN mode
+2019-11-18 09:18:49	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Scanner data TXT file: F:\GitHub\C4ISR_Inventory\WinCE\Doc2.pwd
+2019-11-18 09:18:49	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	1: 
+2019-11-18 09:18:49	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	2: 
+2019-11-18 09:18:49	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	3: 
+2019-11-18 09:18:49	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	4: 
+2019-11-18 09:18:49	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	5: 
+2019-11-18 09:18:49	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	6: 
+2019-11-18 09:18:49	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	7: 
+2019-11-18 09:18:49	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	8: 
+2019-11-18 09:18:49	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	9: 
+2019-11-18 09:18:49	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	10: 
+2019-11-18 09:18:49	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	11: 
+2019-11-18 09:18:49	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	12: 
+2019-11-18 09:18:49	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	13: 
+2019-11-18 09:18:49	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	14: 
+2019-11-18 09:18:49	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	15: 
+2019-11-18 09:18:49	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	16:  CZC737843V
+2019-11-18 09:18:49	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	17: Y3Y80EA#ARL
+2019-11-18 09:18:49	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	18: 1044
+2019-11-18 09:18:49	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	19: 4VDHU
+2019-11-18 09:18:49	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	20: 00108828615352125984
+2019-11-18 09:18:49	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	21: 4006381316132
+2019-11-18 09:18:49	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	22: 
+2019-11-18 09:18:49	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	23: 
+2019-11-18 09:19:06	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Deleted scanned data range A2:A5000
+2019-11-18 09:19:06	DESKTOP-424KP6V	M3Class.SelectFile	debug	Select file WIN mode
+2019-11-18 09:19:09	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Scanner data TXT file: F:\GitHub\C4ISR_Inventory\WinCE\Doc2.pwd
+2019-11-18 09:19:09	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	1: 
+2019-11-18 09:19:09	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	2: 
+2019-11-18 09:19:09	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	3: 
+2019-11-18 09:19:09	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	4: 
+2019-11-18 09:19:09	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	5: 
+2019-11-18 09:19:09	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	6: 
+2019-11-18 09:19:09	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	7: 
+2019-11-18 09:19:09	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	8: 
+2019-11-18 09:19:09	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	9: 
+2019-11-18 09:19:09	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	10: 
+2019-11-18 09:19:09	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	11: 
+2019-11-18 09:19:09	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	12: 
+2019-11-18 09:19:09	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	13: 
+2019-11-18 09:19:09	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	14: 
+2019-11-18 09:19:09	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	15: 
+2019-11-18 09:19:09	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	16:  CZC737843V
+2019-11-18 09:19:09	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	17: Y3Y80EA#ARL
+2019-11-18 09:19:09	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	18: 1044
+2019-11-18 09:19:09	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	19: 4VDHU
+2019-11-18 09:19:09	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	20: 00108828615352125984
+2019-11-18 09:19:09	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	21: 4006381316132
+2019-11-18 09:19:09	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	22: 
+2019-11-18 09:19:09	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	23: 
+2019-11-18 09:19:18	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Deleted scanned data range A2:A5000
+2019-11-18 09:19:18	DESKTOP-424KP6V	M3Class.SelectFile	debug	Select file WIN mode
+2019-11-18 09:19:22	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Scanner data TXT file: F:\GitHub\C4ISR_Inventory\WinCE\Doc2.pwd
+2019-11-18 09:19:22	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	1: 
+2019-11-18 09:19:22	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	2: 
+2019-11-18 09:19:22	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	3: 
+2019-11-18 09:19:22	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	4: 
+2019-11-18 09:19:22	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	5: 
+2019-11-18 09:19:22	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	6: 
+2019-11-18 09:19:22	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	7: 
+2019-11-18 09:19:22	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	8: 
+2019-11-18 09:19:22	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	9: 
+2019-11-18 09:19:22	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	10: 
+2019-11-18 09:19:22	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	11: 
+2019-11-18 09:19:22	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	12: 
+2019-11-18 09:19:22	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	13: 
+2019-11-18 09:19:22	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	14: 
+2019-11-18 09:19:22	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	15: 
+2019-11-18 09:19:22	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	16:  CZC737843V
+2019-11-18 09:19:22	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	17: Y3Y80EA#ARL
+2019-11-18 09:19:22	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	18: 1044
+2019-11-18 09:19:22	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	19: 4VDHU
+2019-11-18 09:19:22	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	20: 00108828615352125984
+2019-11-18 09:19:22	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	21: 4006381316132
+2019-11-18 09:19:22	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	22: 
+2019-11-18 09:19:22	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	23: 
+2019-11-18 09:22:12	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	Deleted scanned data range A2:A5000
+2019-11-18 09:22:12	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-11-18 09:22:12	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-11-18 09:22:12	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
+2019-11-18 09:22:12	DESKTOP-424KP6V	MotorolaCS3070Class.SelectFile	debug	Select file WIN mode
+2019-11-18 09:22:16	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	Scanner data TXT file: F:\GitHub\C4ISR_Inventory\BARCODES.TXT
+2019-11-18 09:22:16	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	1: 000006915834
+2019-11-18 09:22:17	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	2: 000006915834
+2019-11-18 09:22:17	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	3: 000006915834
+2019-11-18 09:22:17	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	4: CN
+2019-11-18 09:22:17	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	5: 1PCS3070-SR10007WW
+2019-11-18 09:22:17	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	6: S18341522503164
+2019-11-18 09:22:17	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	7: 2PP
+2019-11-18 09:22:17	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	8: D07DEC18
+2019-11-18 09:22:17	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	9: 000006819248
+2019-11-18 09:22:17	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	10: 000006819231
+2019-11-18 09:22:17	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	11: Y3Y80EA#ARL
+2019-11-18 09:22:17	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	12: CZC737843V
+2019-11-18 09:22:17	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	13: 000006819309
+2019-11-18 09:22:17	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	14: Y3Y80EA#ARL
+2019-11-18 09:22:17	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	15: CZC7519DWD
+2019-11-18 09:22:17	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	16: 10191158
+2019-11-18 09:22:17	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	17: 169.254.52.211
+2019-11-18 09:22:17	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	18: 5C8A389634D3
+2019-11-18 09:22:20	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Deleted scanned data range A2:A5000
+2019-11-18 09:22:20	DESKTOP-424KP6V	M3Class.SelectFile	debug	Select file WIN mode
+2019-11-18 09:22:24	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Scanner data TXT file: F:\GitHub\C4ISR_Inventory\WinCE\Doc2.pwd
+2019-11-18 09:22:24	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	16: CZC737843V
+2019-11-18 09:22:24	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	17: Y3Y80EA#ARL
+2019-11-18 09:22:24	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	18: 1044
+2019-11-18 09:22:24	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	19: 4VDHU
+2019-11-18 09:22:24	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	20: 00108828615352125984
+2019-11-18 09:22:24	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	21: 4006381316132
+2019-11-18 09:26:39	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Deleted scanned data range A2:A5000
+2019-11-18 09:26:39	DESKTOP-424KP6V	M3Class.SelectFile	debug	Select file WIN mode
+2019-11-18 09:26:42	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Scanner data TXT file: F:\GitHub\C4ISR_Inventory\WinCE\Doc2.pwd
+2019-11-18 09:26:42	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	16: CZC737843V
+2019-11-18 09:26:42	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	17: Y3Y80EA#ARL
+2019-11-18 09:26:42	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	18: 1044
+2019-11-18 09:26:42	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	19: 4VDHU
+2019-11-18 09:26:42	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	20: 00108828615352125984
+2019-11-18 09:26:42	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	21: 4006381316132
