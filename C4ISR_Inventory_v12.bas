@@ -633,33 +633,38 @@ Private Sub ChangeFlag(IcoName As String)
   ' {String} IcoName
   'Created by: Laszlo Tamas
   'Licence: MIT
-  Dim strPic
+  Dim sPicName As String
   Dim shp
   Dim ws
   Dim t, l, h, w
-  Dim icopath
+  Dim sIcoPath As String
   
   On Error GoTo PROC_ERR
   
   Set ws = ActiveSheet
-  strPic = "Flag"
-  Set shp = ws.Shapes(strPic)
-  icopath = Application.ActiveWorkbook.Path & "\" & IcoName & ".ico"
+  sPicName = "Flag"
+  Set shp = ws.Shapes(sPicName)
+  sIcoPath = Application.ActiveWorkbook.Path & "\" & IcoName & ".ico"
+  If Dir(sIcoPath) <> "" Then
+    With shp
+      t = .Top
+      l = .Left
+      h = .Height
+      w = .Width
+    End With
+    
+    ws.Shapes(sPicName).Delete
+    
+    Set shp = ws.Shapes.AddPicture(sIcoPath, msoFalse, msoTrue, l, t, w, h)
+    shp.Name = sPicName
+    shp.ScaleHeight Factor:=0.2890625, RelativeToOriginalSize:=msoTrue
+    shp.ScaleWidth Factor:=0.2890625, RelativeToOriginalSize:=msoTrue
+  Else
+    Call clLogger.logERROR("File " & sIcoPath & " does not exist.", "C4ISR_Inventory.ChangeFlag")
+  End If
   'MsgBox icopath
   'Capture properties of exisiting picture such As location and size
-  With shp
-    t = .Top
-    l = .Left
-    h = .Height
-    w = .Width
-  End With
-  
-  ws.Shapes(strPic).Delete
-  
-  Set shp = ws.Shapes.AddPicture(icopath, msoFalse, msoTrue, l, t, w, h)
-  shp.Name = strPic
-  shp.ScaleHeight Factor:=0.2890625, RelativeToOriginalSize:=msoTrue
-  shp.ScaleWidth Factor:=0.2890625, RelativeToOriginalSize:=msoTrue
+
   '---------------
 PROC_EXIT:
   On Error GoTo 0
