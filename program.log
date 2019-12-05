@@ -455,3 +455,68 @@
 2019-12-05 14:10:38	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
 2019-12-05 14:10:39	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
 2019-12-05 14:10:40	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 14:12:42	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: C:\Users\Tamás László9\Documents\GitHub\C4ISR_Inventory\program.log
+2019-12-05 14:12:42	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-05 14:12:42	DESKTOP-OVRCK8H	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win64 mode
+2019-12-05 14:15:52	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: C:\Users\Tamás László9\Documents\GitHub\C4ISR_Inventory\program.log
+2019-12-05 14:15:52	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-05 14:15:52	DESKTOP-OVRCK8H	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
+2019-12-05 14:15:52	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 14:15:57	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 14:16:00	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2019-12-05 14:17:25	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 14:17:29	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 14:18:11	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2019-12-05 14:18:13	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 14:29:17	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 14:29:17	DESKTOP-OVRCK8H	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
+2019-12-05 14:29:20	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 14:29:20	DESKTOP-OVRCK8H	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
+2019-12-05 14:29:21	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2019-12-05 14:29:21	DESKTOP-OVRCK8H	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
+2019-12-05 14:29:22	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 14:29:23	DESKTOP-OVRCK8H	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
+2019-12-05 14:29:24	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 14:29:24	DESKTOP-OVRCK8H	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
+2019-12-05 14:29:52	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 14:29:52	DESKTOP-OVRCK8H	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
+2019-12-05 14:29:53	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 14:29:53	DESKTOP-OVRCK8H	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
+2019-12-05 14:29:54	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2019-12-05 14:29:54	DESKTOP-OVRCK8H	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
+2019-12-05 14:29:56	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 14:29:56	DESKTOP-OVRCK8H	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
+2019-12-05 14:29:57	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 14:29:57	DESKTOP-OVRCK8H	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
+2019-12-05 14:30:12	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 14:30:12	DESKTOP-OVRCK8H	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
+2019-12-05 14:30:13	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 14:30:13	DESKTOP-OVRCK8H	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
+2019-12-05 14:30:15	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2019-12-05 14:30:15	DESKTOP-OVRCK8H	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
+2019-12-05 14:30:23	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 14:30:24	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 14:30:26	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2019-12-05 14:36:30	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: C:\Users\Tamás László9\Documents\GitHub\C4ISR_Inventory\program.log
+2019-12-05 14:36:30	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-05 14:36:30	DESKTOP-OVRCK8H	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
+2019-12-05 14:36:30	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 14:36:31	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 14:36:32	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2019-12-05 14:36:46	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 14:36:47	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 14:36:49	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 14:36:50	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2019-12-05 14:36:52	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 14:36:53	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 14:36:55	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 14:36:59	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2019-12-05 14:37:23	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 14:37:24	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2019-12-05 14:37:26	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 14:37:27	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 14:37:30	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2019-12-05 14:37:32	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 14:37:33	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 14:37:39	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 14:37:40	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
