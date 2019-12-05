@@ -95,3 +95,138 @@
 2019-12-03 15:08:55	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2Inventory	debug	Inventory sheet: C:\Users\Tamás László9\Documents\ste23\Step 2\HUNC4-RO-DD-00018-01-04-IRIS-B01-Inventory.xlsx>IRIS-B01-Inventory
 2019-12-03 15:08:55	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToInventory	debug	Inventory items copied into database
 2019-12-03 15:09:03	DESKTOP-OVRCK8H	C4ISR_Inventory.DeleteScannedData	debug	Deleted scanned data range A2:A5000
+2019-12-05 07:06:15	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-05 07:06:15	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-05 07:06:15	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win32 mode
+2019-12-05 07:14:54	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-05 07:14:54	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-05 07:14:54	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win32 mode
+2019-12-05 07:15:46	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-05 07:15:46	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-05 07:15:46	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
+2019-12-05 07:15:46	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 07:15:54	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2019-12-05 07:15:55	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:19:42	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-05 07:19:42	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-05 07:19:42	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
+2019-12-05 07:19:42	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:20:29	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2019-12-05 07:20:31	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:20:32	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 07:20:33	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:20:34	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2019-12-05 07:20:38	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2019-12-05 07:20:38	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:20:39	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 07:20:41	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:20:42	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2019-12-05 07:20:43	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:20:56	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:20:56	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2019-12-05 07:20:57	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:20:57	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 07:24:50	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 07:26:56	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-05 07:26:56	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-05 07:26:56	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
+2019-12-05 07:26:56	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 07:27:20	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-05 07:27:20	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-05 07:27:20	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
+2019-12-05 07:27:20	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 07:27:52	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-05 07:27:52	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-05 07:27:52	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
+2019-12-05 07:27:52	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 07:31:09	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-05 07:31:09	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-05 07:31:09	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
+2019-12-05 07:31:09	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 07:33:02	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-05 07:33:02	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-05 07:33:02	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
+2019-12-05 07:33:02	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 07:33:52	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-05 07:33:53	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-05 07:33:53	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
+2019-12-05 07:33:53	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 07:35:03	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-05 07:35:03	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-05 07:35:03	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
+2019-12-05 07:35:03	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 07:41:56	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-05 07:41:56	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-05 07:41:56	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
+2019-12-05 07:41:56	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:42:08	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 07:43:31	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-05 07:43:31	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-05 07:43:31	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win32 mode
+2019-12-05 07:43:34	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-05 07:43:34	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-05 07:43:34	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
+2019-12-05 07:43:34	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:43:36	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 07:43:40	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:44:55	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 07:45:00	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2019-12-05 07:45:01	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:45:02	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 07:45:34	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:45:35	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 07:45:36	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:45:37	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2019-12-05 07:46:12	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:46:13	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 07:46:14	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:46:15	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2019-12-05 07:46:18	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:46:19	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 07:46:21	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:46:21	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2019-12-05 07:47:37	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 07:47:38	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:47:41	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 07:47:42	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:47:46	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2019-12-05 07:47:47	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:47:48	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 07:47:49	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:47:50	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2019-12-05 07:47:50	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:47:51	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 07:48:50	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-05 07:48:50	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-05 07:48:50	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
+2019-12-05 07:48:50	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2019-12-05 07:48:51	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:48:52	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 07:48:54	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:49:36	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2019-12-05 07:49:38	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:49:39	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 07:51:01	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:51:05	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:51:37	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 07:51:40	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 07:51:41	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:51:43	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2019-12-05 07:52:21	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:52:22	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 07:52:24	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2019-12-05 07:52:25	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:52:26	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 07:52:29	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:52:29	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2019-12-05 07:53:04	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 07:53:05	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:53:05	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2019-12-05 07:53:06	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:53:07	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 07:53:10	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:53:10	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2019-12-05 07:53:12	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:53:12	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-05 07:53:14	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
+2019-12-05 07:53:15	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
