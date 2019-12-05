@@ -606,19 +606,19 @@ End Sub
 Sub SwitchToENG()
   Call clMotorola.SwitchToENG
   Sheets(cmshScan).Activate
-  Cells(1, Col_Number("N")) = "ENG"
+  Cells(1, Col_Number("N")) = "     ENG"
   Call ChangeFlag("USA")
 End Sub
 Sub SwitchToHUN()
   Call clMotorola.SwitchToHUN
   Sheets(cmshScan).Activate
-  Cells(1, Col_Number("N")) = "HUN"
+  Cells(1, Col_Number("N")) = "     HUN"
   Call ChangeFlag("Hungary")
 End Sub
 Sub SwitchToFRA()
   Call clMotorola.SwitchToFRA
   Sheets(cmshScan).Activate
-  Cells(1, Col_Number("N")) = "FRA"
+  Cells(1, Col_Number("N")) = "     FRA"
   Call ChangeFlag("France")
 End Sub
   
@@ -642,6 +642,7 @@ Private Sub ChangeFlag(IcoName As String)
   On Error GoTo PROC_ERR
   
   Set ws = ActiveSheet
+  ws.Unprotect Password:="pwd123"
   sPicName = "Flag"
   Set shp = ws.Shapes(sPicName)
   sIcoPath = Application.ActiveWorkbook.Path & "\" & IcoName & ".ico"
@@ -659,6 +660,7 @@ Private Sub ChangeFlag(IcoName As String)
     shp.Name = sPicName
     shp.ScaleHeight Factor:=0.2890625, RelativeToOriginalSize:=msoTrue
     shp.ScaleWidth Factor:=0.2890625, RelativeToOriginalSize:=msoTrue
+
   Else
     Call clLogger.logERROR("File " & sIcoPath & " does not exist.", "C4ISR_Inventory.ChangeFlag")
   End If
@@ -668,6 +670,7 @@ Private Sub ChangeFlag(IcoName As String)
   '---------------
 PROC_EXIT:
   On Error GoTo 0
+  ws.Protect Password:="pwd123"
   Exit Sub
 PROC_ERR:
   Debug.Print "Error  In Sub C4ISR_Inventory.ChangeFlag"
