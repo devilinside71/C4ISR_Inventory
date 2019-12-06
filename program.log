@@ -1,561 +1,440 @@
-2019-12-03 09:32:34	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: C:\Users\Tamás László9\Documents\GitHub\C4ISR_Inventory\program.log
-2019-12-03 09:32:34	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-03 09:32:34	DESKTOP-OVRCK8H	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win64 mode
-2019-12-03 09:45:39	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: C:\Users\Tamás László9\Documents\GitHub\C4ISR_Inventory\program.log
-2019-12-03 09:45:39	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-03 09:45:39	DESKTOP-OVRCK8H	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win64 mode
-2019-12-03 09:45:48	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: C:\Users\Tamás László9\Documents\GitHub\C4ISR_Inventory\program.log
-2019-12-03 09:45:48	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-03 09:45:48	DESKTOP-OVRCK8H	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
-2019-12-03 09:45:48	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-03 09:45:51	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2FullInventory	debug	Last row of Full Inventory sheet: 2
-2019-12-03 09:45:51	DESKTOP-OVRCK8H	MotorolaCS3070Class.SelectFile	debug	Select file WIN mode
-2019-12-03 09:46:25	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Cover page
-2019-12-03 09:46:25	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Revisions
-2019-12-03 09:46:25	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Acceptance
-2019-12-03 09:46:25	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: IRIS-E01-Inventory
-2019-12-03 09:46:25	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Inventory sheet: C:\Users\Tamás László9\Documents\ste23\Step 3\Archives\HUNC4-RO-DD-00000-01-01-IRIS-H01-Inventory.xlsx>IRIS-E01-Inventory
-2019-12-03 09:46:25	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Inventory items copied into database
-2019-12-03 09:52:46	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2FullInventory	debug	Last row of Full Inventory sheet: 2
-2019-12-03 09:52:46	DESKTOP-OVRCK8H	MotorolaCS3070Class.SelectFile	debug	Select file WIN mode
-2019-12-03 09:52:59	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Cover page
-2019-12-03 09:52:59	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Revisions
-2019-12-03 09:52:59	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Acceptance
-2019-12-03 09:52:59	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Informations Pack
-2019-12-03 09:52:59	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: IRIS-H01-Inventory
-2019-12-03 09:52:59	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Inventory sheet: C:\Users\Tamás László9\Documents\ste23\HUNC4-RO-DD-00019-01-04-IRIS-H01-Inventory.xlsx>IRIS-H01-Inventory
-2019-12-03 09:53:00	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Inventory items copied into database
-2019-12-03 09:53:20	DESKTOP-OVRCK8H	MotorolaCS3070Class.SelectFile	debug	Select file WIN mode
-2019-12-03 09:53:29	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Cover page
-2019-12-03 09:53:29	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Revisions
-2019-12-03 09:53:29	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Acceptance
-2019-12-03 09:53:29	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Informations Pack
-2019-12-03 09:53:29	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: IRIS-H01-Inventory
-2019-12-03 09:53:29	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2Inventory	debug	Inventory sheet: C:\Users\Tamás László9\Documents\ste23\HUNC4-RO-DD-00019-01-04-IRIS-H01-Inventory.xlsx>IRIS-H01-Inventory
-2019-12-03 09:53:30	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToInventory	debug	Inventory items copied into database
-2019-12-03 11:54:31	DESKTOP-OVRCK8H	C4ISR_Inventory.ReadFromM3File	debug	Deleted scanned data range A2:A5000
-2019-12-03 11:54:31	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: C:\Users\Tamás László9\Documents\GitHub\C4ISR_Inventory\program.log
-2019-12-03 11:54:31	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-03 11:54:31	DESKTOP-OVRCK8H	M3Class.Class_Initialize	debug	Class M3Class initialized
-2019-12-03 11:54:31	DESKTOP-OVRCK8H	M3Class.SelectFile	debug	Select file WIN mode
-2019-12-03 11:54:35	DESKTOP-OVRCK8H	C4ISR_Inventory.ReadFromM3File	debug	Scanner data TXT file: C:\Users\Tamás László9\Documents\ste23\INV_TEST.TXT
-2019-12-03 14:21:48	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-03 14:56:35	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2FullInventory	debug	Last row of Full Inventory sheet: 109
-2019-12-03 14:56:35	DESKTOP-OVRCK8H	MotorolaCS3070Class.SelectFile	debug	Select file WIN mode
-2019-12-03 14:56:43	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Cover page
-2019-12-03 14:56:43	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Revisions
-2019-12-03 14:56:43	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Acceptance
-2019-12-03 14:56:43	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Informations Pack
-2019-12-03 14:56:43	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: IRIS-A02-Inventory
-2019-12-03 14:56:43	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Inventory sheet: C:\Users\Tamás László9\Documents\ste23\Step 3\HUNC4-RO-DD-00017-01-04-IRIS-A02-Inventory.xlsx>IRIS-A02-Inventory
-2019-12-03 14:56:43	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Inventory items copied into database
-2019-12-03 14:57:05	DESKTOP-OVRCK8H	MotorolaCS3070Class.SelectFile	debug	Select file WIN mode
-2019-12-03 14:57:10	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Cover page
-2019-12-03 14:57:10	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Revisions
-2019-12-03 14:57:10	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Acceptance
-2019-12-03 14:57:10	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Informations Pack
-2019-12-03 14:57:10	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: IRIS-A02-Inventory
-2019-12-03 14:57:10	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2Inventory	debug	Inventory sheet: C:\Users\Tamás László9\Documents\ste23\Step 3\HUNC4-RO-DD-00017-01-04-IRIS-A02-Inventory.xlsx>IRIS-A02-Inventory
-2019-12-03 14:57:10	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToInventory	debug	Inventory items copied into database
-2019-12-03 14:57:19	DESKTOP-OVRCK8H	C4ISR_Inventory.DeleteScannedData	debug	Deleted scanned data range A2:A5000
-2019-12-03 14:57:45	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-03 15:05:36	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2FullInventory	debug	Last row of Full Inventory sheet: 199
-2019-12-03 15:05:36	DESKTOP-OVRCK8H	MotorolaCS3070Class.SelectFile	debug	Select file WIN mode
-2019-12-03 15:05:52	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Cover page
-2019-12-03 15:05:52	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Revisions
-2019-12-03 15:05:52	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Acceptance
-2019-12-03 15:05:52	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Informations Pack
-2019-12-03 15:05:52	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: IRIS-C01-Inventory
-2019-12-03 15:05:52	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Inventory sheet: C:\Users\Tamás László9\Documents\ste23\Step 2\HUNC4-RO-DD-00015-01-04-IRIS-C01-Inventory.xlsx>IRIS-C01-Inventory
-2019-12-03 15:05:52	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Inventory items copied into database
-2019-12-03 15:06:00	DESKTOP-OVRCK8H	MotorolaCS3070Class.SelectFile	debug	Select file WIN mode
-2019-12-03 15:06:07	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Cover page
-2019-12-03 15:06:07	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Revisions
-2019-12-03 15:06:07	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Acceptance
-2019-12-03 15:06:07	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Informations Pack
-2019-12-03 15:06:07	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: IRIS-C01-Inventory
-2019-12-03 15:06:07	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2Inventory	debug	Inventory sheet: C:\Users\Tamás László9\Documents\ste23\Step 2\HUNC4-RO-DD-00015-01-04-IRIS-C01-Inventory.xlsx>IRIS-C01-Inventory
-2019-12-03 15:06:07	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToInventory	debug	Inventory items copied into database
-2019-12-03 15:06:14	DESKTOP-OVRCK8H	C4ISR_Inventory.DeleteScannedData	debug	Deleted scanned data range A2:A5000
-2019-12-03 15:08:13	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2FullInventory	debug	Last row of Full Inventory sheet: 295
-2019-12-03 15:08:13	DESKTOP-OVRCK8H	MotorolaCS3070Class.SelectFile	debug	Select file WIN mode
-2019-12-03 15:08:39	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Cover page
-2019-12-03 15:08:39	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Revisions
-2019-12-03 15:08:39	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Acceptance
-2019-12-03 15:08:39	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Informations Pack
-2019-12-03 15:08:39	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: IRIS-B01-Inventory
-2019-12-03 15:08:39	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Inventory sheet: C:\Users\Tamás László9\Documents\ste23\Step 2\HUNC4-RO-DD-00018-01-04-IRIS-B01-Inventory.xlsx>IRIS-B01-Inventory
-2019-12-03 15:08:39	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToFullInventory	debug	Inventory items copied into database
-2019-12-03 15:08:48	DESKTOP-OVRCK8H	MotorolaCS3070Class.SelectFile	debug	Select file WIN mode
-2019-12-03 15:08:55	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Cover page
-2019-12-03 15:08:55	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Revisions
-2019-12-03 15:08:55	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Acceptance
-2019-12-03 15:08:55	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Informations Pack
-2019-12-03 15:08:55	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: IRIS-B01-Inventory
-2019-12-03 15:08:55	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2Inventory	debug	Inventory sheet: C:\Users\Tamás László9\Documents\ste23\Step 2\HUNC4-RO-DD-00018-01-04-IRIS-B01-Inventory.xlsx>IRIS-B01-Inventory
-2019-12-03 15:08:55	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToInventory	debug	Inventory items copied into database
-2019-12-03 15:09:03	DESKTOP-OVRCK8H	C4ISR_Inventory.DeleteScannedData	debug	Deleted scanned data range A2:A5000
-2019-12-05 07:06:15	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 07:06:15	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 07:06:15	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win32 mode
-2019-12-05 07:14:54	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 07:14:54	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 07:14:54	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win32 mode
-2019-12-05 07:15:46	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 07:15:46	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 07:15:46	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
-2019-12-05 07:15:46	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 07:15:54	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 07:15:55	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:19:42	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 07:19:42	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 07:19:42	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
-2019-12-05 07:19:42	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:20:29	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 07:20:31	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:20:32	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 07:20:33	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:20:34	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 07:20:38	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 07:20:38	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:20:39	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 07:20:41	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:20:42	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 07:20:43	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:20:56	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:20:56	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 07:20:57	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:20:57	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 07:24:50	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 07:26:56	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 07:26:56	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 07:26:56	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
-2019-12-05 07:26:56	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 07:27:20	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 07:27:20	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 07:27:20	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
-2019-12-05 07:27:20	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 07:27:52	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 07:27:52	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 07:27:52	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
-2019-12-05 07:27:52	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 07:31:09	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 07:31:09	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 07:31:09	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
-2019-12-05 07:31:09	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 07:33:02	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 07:33:02	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 07:33:02	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
-2019-12-05 07:33:02	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 07:33:52	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 07:33:53	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 07:33:53	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
-2019-12-05 07:33:53	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 07:35:03	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 07:35:03	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 07:35:03	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
-2019-12-05 07:35:03	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 07:41:56	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 07:41:56	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 07:41:56	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
-2019-12-05 07:41:56	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:42:08	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 07:43:31	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 07:43:31	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 07:43:31	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win32 mode
-2019-12-05 07:43:34	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 07:43:34	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 07:43:34	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
-2019-12-05 07:43:34	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:43:36	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 07:43:40	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:44:55	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 07:45:00	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 07:45:01	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:45:02	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 07:45:34	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:45:35	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 07:45:36	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:45:37	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 07:46:12	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:46:13	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 07:46:14	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:46:15	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 07:46:18	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:46:19	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 07:46:21	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:46:21	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 07:47:37	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 07:47:38	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:47:41	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 07:47:42	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:47:46	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 07:47:47	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:47:48	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 07:47:49	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:47:50	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 07:47:50	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:47:51	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 07:48:50	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 07:48:50	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 07:48:50	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
-2019-12-05 07:48:50	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 07:48:51	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:48:52	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 07:48:54	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:49:36	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 07:49:38	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:49:39	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 07:51:01	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:51:05	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:51:37	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 07:51:40	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 07:51:41	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:51:43	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 07:52:21	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:52:22	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 07:52:24	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 07:52:25	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:52:26	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 07:52:29	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:52:29	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 07:53:04	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 07:53:05	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:53:05	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 07:53:06	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:53:07	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 07:53:10	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:53:10	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 07:53:12	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:53:12	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 07:53:14	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 07:53:15	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 08:57:56	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 08:57:56	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 08:57:56	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win32 mode
-2019-12-05 08:58:15	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 08:58:15	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 08:58:15	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
-2019-12-05 08:58:15	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 08:58:16	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 08:58:17	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 08:58:19	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 08:58:20	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 08:58:21	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 08:58:23	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 08:58:24	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 08:58:25	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 08:58:25	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 08:58:27	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 08:58:28	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 08:58:30	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 08:58:30	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 09:08:53	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 09:39:23	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 09:39:23	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 09:39:23	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win32 mode
-2019-12-05 09:39:26	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 09:39:26	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 09:39:26	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
-2019-12-05 09:39:26	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 09:39:26	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	Nem található az adott fájl.
-2019-12-05 09:39:27	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 09:39:27	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
-2019-12-05 09:39:29	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 09:39:29	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
-2019-12-05 09:39:30	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 09:39:30	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
-2019-12-05 09:40:45	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 09:40:45	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 09:40:45	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win32 mode
-2019-12-05 09:40:53	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 09:40:53	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 09:40:53	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
-2019-12-05 09:40:53	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 09:40:54	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 09:40:55	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 09:57:03	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 09:57:21	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 09:57:21	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 09:57:21	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
-2019-12-05 09:57:21	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 09:57:22	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 09:57:22	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 09:57:22	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 09:57:22	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	File F:\GitHub\C4ISR_Inventory\USA.ico does not exist.
-2019-12-05 09:57:25	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 09:57:26	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 09:57:26	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	File F:\GitHub\C4ISR_Inventory\USA.ico does not exist.
-2019-12-05 09:57:27	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 09:57:40	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 09:57:41	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 09:57:42	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 09:57:43	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 09:57:44	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 09:57:44	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 09:57:46	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 09:57:46	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 10:26:50	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 10:26:50	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 10:26:50	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win32 mode
-2019-12-05 10:26:56	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 10:26:56	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 10:26:56	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
-2019-12-05 10:26:56	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 10:26:57	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 10:26:58	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 10:26:59	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 10:27:00	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 10:27:01	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 10:27:01	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 11:06:20	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 11:06:22	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 11:06:23	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 11:06:26	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 11:06:27	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 11:06:29	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 11:06:30	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 11:06:30	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 11:26:28	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 11:26:28	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 11:26:28	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win32 mode
-2019-12-05 11:26:38	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 11:26:38	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 11:26:38	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
-2019-12-05 11:26:38	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 11:26:39	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 11:26:40	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 11:26:41	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 11:26:42	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 11:30:12	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 11:30:12	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 11:30:12	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win32 mode
-2019-12-05 12:39:32	DESKTOP-424KP6V	C4ISR_Inventory.Add2FullInventory	debug	Last row of Full Inventory sheet: 411
-2019-12-05 12:39:32	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 12:39:32	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 12:39:32	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
-2019-12-05 12:39:32	DESKTOP-424KP6V	MotorolaCS3070Class.SelectFile	debug	Select file WIN mode
-2019-12-05 12:39:40	DESKTOP-424KP6V	MotorolaCS3070Class.SelectFile	debug	Nothing selected
-2019-12-05 13:12:38	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 13:12:38	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 13:12:38	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win32 mode
-2019-12-05 13:12:43	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 13:12:43	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 13:12:43	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
-2019-12-05 13:12:43	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 13:12:44	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 13:12:46	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 13:12:46	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 13:14:08	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 13:14:08	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 13:14:08	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win32 mode
-2019-12-05 13:14:14	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 13:14:14	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 13:14:14	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
-2019-12-05 13:14:14	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 13:14:15	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 13:14:17	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 13:14:17	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 13:14:18	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 13:14:19	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 13:14:21	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 13:14:23	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 13:14:24	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 13:14:26	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 13:14:26	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 13:14:29	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 13:14:31	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 13:14:31	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 13:14:32	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 13:31:59	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 13:33:03	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 13:33:03	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 13:33:03	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
-2019-12-05 13:33:03	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 13:33:03	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 13:33:03	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 13:33:03	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	A megadott érték kívül esik a megengedett tartományon.
-2019-12-05 13:33:06	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 13:33:06	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	A megadott érték kívül esik a megengedett tartományon.
-2019-12-05 13:33:07	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 13:33:07	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	A megadott érték kívül esik a megengedett tartományon.
-2019-12-05 13:33:35	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 13:33:35	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	A megadott érték kívül esik a megengedett tartományon.
-2019-12-05 13:33:36	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 13:33:36	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	A megadott érték kívül esik a megengedett tartományon.
-2019-12-05 13:33:38	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 13:33:38	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	A megadott érték kívül esik a megengedett tartományon.
-2019-12-05 13:33:39	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 13:33:39	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	A megadott érték kívül esik a megengedett tartományon.
-2019-12-05 13:33:40	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 13:33:40	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	A megadott érték kívül esik a megengedett tartományon.
-2019-12-05 13:33:40	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 13:33:40	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	A megadott érték kívül esik a megengedett tartományon.
-2019-12-05 13:33:40	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 13:33:41	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	A megadott érték kívül esik a megengedett tartományon.
-2019-12-05 13:55:40	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 13:55:40	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	A megadott érték kívül esik a megengedett tartományon.
-2019-12-05 13:55:42	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 13:55:42	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	A megadott érték kívül esik a megengedett tartományon.
-2019-12-05 13:55:44	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 13:55:44	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	A megadott érték kívül esik a megengedett tartományon.
-2019-12-05 13:56:25	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 13:56:25	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	A megadott érték kívül esik a megengedett tartományon.
-2019-12-05 13:56:27	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 13:56:27	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
-2019-12-05 13:56:28	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 13:56:28	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
-2019-12-05 13:56:29	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 13:56:30	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
-2019-12-05 13:56:31	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 13:56:31	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
-2019-12-05 13:56:35	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 13:56:35	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
-2019-12-05 13:56:36	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 13:56:36	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
-2019-12-05 13:57:39	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 13:57:41	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 13:57:42	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 13:58:05	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 13:58:06	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 13:58:19	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 13:58:19	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	A megadott érték kívül esik a megengedett tartományon.
-2019-12-05 13:58:21	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 13:58:21	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	A megadott érték kívül esik a megengedett tartományon.
-2019-12-05 13:58:22	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 13:58:22	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	A megadott érték kívül esik a megengedett tartományon.
-2019-12-05 13:58:33	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 13:58:35	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 13:58:50	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 14:00:16	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 14:00:17	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:00:18	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 14:00:29	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 14:00:29	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	A megadott érték kívül esik a megengedett tartományon.
-2019-12-05 14:00:30	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:00:30	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
-2019-12-05 14:00:31	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 14:00:31	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
-2019-12-05 14:01:08	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 14:01:08	DESKTOP-424KP6V	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
-2019-12-05 14:01:20	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:01:22	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 14:01:23	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:01:23	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 14:03:03	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 14:03:04	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:03:06	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 14:03:12	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:03:13	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 14:03:54	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 14:03:55	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:03:57	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 14:10:36	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 14:10:37	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:10:38	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 14:10:39	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:10:40	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 14:12:42	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: C:\Users\Tamás László9\Documents\GitHub\C4ISR_Inventory\program.log
-2019-12-05 14:12:42	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 14:12:42	DESKTOP-OVRCK8H	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win64 mode
-2019-12-05 14:15:52	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: C:\Users\Tamás László9\Documents\GitHub\C4ISR_Inventory\program.log
-2019-12-05 14:15:52	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 14:15:52	DESKTOP-OVRCK8H	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
-2019-12-05 14:15:52	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:15:57	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 14:16:00	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 14:17:25	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:17:29	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 14:18:11	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 14:18:13	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:29:17	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 14:29:17	DESKTOP-OVRCK8H	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
-2019-12-05 14:29:20	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:29:20	DESKTOP-OVRCK8H	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
-2019-12-05 14:29:21	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 14:29:21	DESKTOP-OVRCK8H	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
-2019-12-05 14:29:22	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:29:23	DESKTOP-OVRCK8H	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
-2019-12-05 14:29:24	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 14:29:24	DESKTOP-OVRCK8H	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
-2019-12-05 14:29:52	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 14:29:52	DESKTOP-OVRCK8H	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
-2019-12-05 14:29:53	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:29:53	DESKTOP-OVRCK8H	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
-2019-12-05 14:29:54	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 14:29:54	DESKTOP-OVRCK8H	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
-2019-12-05 14:29:56	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:29:56	DESKTOP-OVRCK8H	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
-2019-12-05 14:29:57	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 14:29:57	DESKTOP-OVRCK8H	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
-2019-12-05 14:30:12	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 14:30:12	DESKTOP-OVRCK8H	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
-2019-12-05 14:30:13	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:30:13	DESKTOP-OVRCK8H	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
-2019-12-05 14:30:15	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 14:30:15	DESKTOP-OVRCK8H	C4ISR_Inventory.ChangeFlag	err	Az adott nevû elem nem található.
-2019-12-05 14:30:23	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 14:30:24	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:30:26	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 14:36:30	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: C:\Users\Tamás László9\Documents\GitHub\C4ISR_Inventory\program.log
-2019-12-05 14:36:30	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 14:36:30	DESKTOP-OVRCK8H	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
-2019-12-05 14:36:30	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 14:36:31	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:36:32	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 14:36:46	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:36:47	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 14:36:49	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:36:50	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 14:36:52	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:36:53	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 14:36:55	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:36:59	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 14:37:23	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:37:24	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 14:37:26	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 14:37:27	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:37:30	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 14:37:32	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:37:33	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 14:37:39	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:37:40	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 14:39:01	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 14:39:01	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 14:39:01	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win32 mode
-2019-12-05 14:39:06	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
-2019-12-05 14:39:06	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 14:39:06	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
-2019-12-05 14:39:06	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:39:07	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 14:39:09	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 14:39:10	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:39:11	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 14:39:13	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:39:14	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 14:39:15	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:39:15	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 14:39:51	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 14:39:53	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:39:54	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 14:39:55	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:39:56	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 14:39:57	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:39:57	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 14:52:54	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 14:52:56	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:52:57	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 14:52:59	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:52:59	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 14:53:01	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:53:03	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 14:55:21	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
-2019-12-05 14:55:22	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
-2019-12-05 14:55:23	DESKTOP-424KP6V	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
-2019-12-05 17:28:16	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: C:\Users\Tamás László9\Documents\GitHub\C4ISR_Inventory\program.log
-2019-12-05 17:28:16	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 17:28:16	DESKTOP-OVRCK8H	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win64 mode
-2019-12-05 17:28:24	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: C:\Users\Tamás László9\Documents\GitHub\C4ISR_Inventory\program.log
-2019-12-05 17:28:24	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
-2019-12-05 17:28:24	DESKTOP-OVRCK8H	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
-2019-12-05 17:28:24	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
+2019-12-06 06:35:42	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Deleted scanned data range A2:A5000
+2019-12-06 06:35:42	DESKTOP-424KP6V	M3Class.SelectFile	debug	Select file WIN mode
+2019-12-06 06:35:45	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Scanner data TXT file: F:\GitHub\C4ISR_Inventory\WinCE\INV_TEST.TXT
+2019-12-06 06:52:42	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Deleted scanned data range A2:A5000
+2019-12-06 06:52:42	DESKTOP-424KP6V	M3Class.SelectFile	debug	Select file WIN mode
+2019-12-06 06:52:45	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Scanner data TXT file: F:\GitHub\C4ISR_Inventory\WinCE\INV_TEST.TXT
+2019-12-06 06:53:02	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Deleted scanned data range A2:A5000
+2019-12-06 06:53:02	DESKTOP-424KP6V	M3Class.SelectFile	debug	Select file WIN mode
+2019-12-06 06:53:05	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Scanner data TXT file: F:\GitHub\C4ISR_Inventory\WinCE\INV_TEST.TXT
+2019-12-06 06:55:31	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Deleted scanned data range A2:A5000
+2019-12-06 06:55:31	DESKTOP-424KP6V	M3Class.SelectFile	debug	Select file WIN mode
+2019-12-06 06:55:34	DESKTOP-424KP6V	M3Class.GetTextData	debug	Read lines: 5
+2019-12-06 06:55:34	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Scanner data TXT file: F:\GitHub\C4ISR_Inventory\WinCE\INV_TEST.TXT
+2019-12-06 08:17:35	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Deleted scanned data range A2:A5000
+2019-12-06 08:17:35	DESKTOP-424KP6V	M3Class.SelectFile	debug	Select file WIN mode
+2019-12-06 08:17:37	DESKTOP-424KP6V	M3Class.GetTextData	debug	M3 lines read: 5
+2019-12-06 08:17:37	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Scanner data TXT file: F:\GitHub\C4ISR_Inventory\WinCE\INV_TEST.TXT
+2019-12-06 08:17:37	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	1: 4001475215476
+2019-12-06 08:17:37	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	2: 4001475215476
+2019-12-06 08:17:37	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	3: P00046730321
+2019-12-06 08:17:37	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	4: 8SSA10M42722C1SG74L89CF
+2019-12-06 08:17:38	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	5: 8SSA10E75793C1SG74L89CF
+2019-12-06 08:17:42	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Deleted scanned data range A2:A5000
+2019-12-06 08:17:42	DESKTOP-424KP6V	M3Class.SelectFile	debug	Select file WIN mode
+2019-12-06 08:17:46	DESKTOP-424KP6V	M3Class.GetTextData	debug	M3 lines read: 23
+2019-12-06 08:17:46	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Scanner data TXT file: F:\GitHub\C4ISR_Inventory\WinCE\Doc2.pwd
+2019-12-06 08:17:46	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	1: {\pwd2\ansi{\*\pwdcomment
+2019-12-06 08:17:46	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	3: ************************************************************************
+2019-12-06 08:17:46	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	4: *
+2019-12-06 08:17:46	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	5: * This is a Microsoft WordPad document.
+2019-12-06 08:17:46	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	6: *
+2019-12-06 08:17:46	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	7: * For further details visit the Microsoft Windows CE web site, at
+2019-12-06 08:17:46	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	8: *         http://www.microsoft.com/windowsce
+2019-12-06 08:17:46	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	9: * Or search MSDN for 'Microsoft WordPad'
+2019-12-06 08:17:46	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	10: *
+2019-12-06 08:17:46	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	11: ************************************************************************
+2019-12-06 08:17:46	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	14: }\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+2019-12-06 08:17:46	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	15: {\colortbl ;}
+2019-12-06 08:17:46	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	16: \viewkind4\uc1\pard\cf0\f0\fs20 CZC737843V\par
+2019-12-06 08:17:47	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	17: Y3Y80EA#ARL
+2019-12-06 08:17:47	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	18: 1044
+2019-12-06 08:17:47	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	19: 4VDHU
+2019-12-06 08:17:47	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	20: 00108828615352125984
+2019-12-06 08:17:47	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	21: 4006381316132
+2019-12-06 08:17:47	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	23: }
+2019-12-06 08:20:21	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Deleted scanned data range A2:A5000
+2019-12-06 08:20:21	DESKTOP-424KP6V	M3Class.SelectFile	debug	Select file WIN mode
+2019-12-06 08:20:25	DESKTOP-424KP6V	M3Class.GetTextData	debug	M3 lines read: 5
+2019-12-06 08:20:25	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Scanner data TXT file: F:\GitHub\C4ISR_Inventory\WinCE\INV_TEST.TXT
+2019-12-06 08:20:25	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	1: 4001475215476
+2019-12-06 08:20:25	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	2: 4001475215476
+2019-12-06 08:20:25	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	3: P00046730321
+2019-12-06 08:20:25	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	4: 8SSA10M42722C1SG74L89CF
+2019-12-06 08:20:25	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	5: 8SSA10E75793C1SG74L89CF
+2019-12-06 08:21:52	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Deleted scanned data range A2:A5000
+2019-12-06 08:21:52	DESKTOP-424KP6V	M3Class.SelectFile	debug	Select file WIN mode
+2019-12-06 08:21:55	DESKTOP-424KP6V	M3Class.GetTextData	debug	M3 lines read: 23
+2019-12-06 08:21:55	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Scanner data TXT file: F:\GitHub\C4ISR_Inventory\WinCE\Doc2.pwd
+2019-12-06 08:21:55	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	1: {\pwd2\ansi{\*\pwdcomment
+2019-12-06 08:21:55	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	3: ************************************************************************
+2019-12-06 08:21:55	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	4: *
+2019-12-06 08:21:56	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	5: * This is a Microsoft WordPad document.
+2019-12-06 08:21:56	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	6: *
+2019-12-06 08:21:56	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	7: * For further details visit the Microsoft Windows CE web site, at
+2019-12-06 08:21:56	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	8: *         http://www.microsoft.com/windowsce
+2019-12-06 08:21:56	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	9: * Or search MSDN for 'Microsoft WordPad'
+2019-12-06 08:21:56	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	10: *
+2019-12-06 08:21:56	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	11: ************************************************************************
+2019-12-06 08:21:56	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	14: }\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+2019-12-06 08:21:56	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	15: {\colortbl ;}
+2019-12-06 08:21:56	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	16: \viewkind4\uc1\pard\cf0\f0\fs20 CZC737843V\par
+2019-12-06 08:21:56	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	17: Y3Y80EA#ARL
+2019-12-06 08:21:56	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	18: 1044
+2019-12-06 08:21:56	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	19: 4VDHU
+2019-12-06 08:21:56	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	20: 00108828615352125984
+2019-12-06 08:21:56	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	21: 4006381316132
+2019-12-06 08:21:56	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	23: }
+2019-12-06 08:37:11	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-06 08:37:11	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-06 08:37:11	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Deleted scanned data range A2:A5000
+2019-12-06 08:37:11	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-06 08:37:11	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-06 08:37:11	DESKTOP-424KP6V	M3Class.Class_Initialize	debug	Class M3Class initialized
+2019-12-06 08:37:11	DESKTOP-424KP6V	M3Class.SelectFile	debug	Select file WIN mode
+2019-12-06 08:37:15	DESKTOP-424KP6V	M3Class.GetTextData	debug	M3 lines read: 23
+2019-12-06 08:37:15	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Scanner data TXT file: F:\GitHub\C4ISR_Inventory\WinCE\Doc2.pwd
+2019-12-06 08:37:15	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	16: \viewkind4\uc1d\cf0\f0\fs20 CZC737843V
+2019-12-06 08:37:15	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	17: Y3Y80EA#ARL
+2019-12-06 08:37:15	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	18: 1044
+2019-12-06 08:37:15	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	19: 4VDHU
+2019-12-06 08:37:15	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	20: 00108828615352125984
+2019-12-06 08:37:15	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	21: 4006381316132
+2019-12-06 08:38:03	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Deleted scanned data range A2:A5000
+2019-12-06 08:38:03	DESKTOP-424KP6V	M3Class.SelectFile	debug	Select file WIN mode
+2019-12-06 08:38:06	DESKTOP-424KP6V	M3Class.GetTextData	debug	M3 lines read: 23
+2019-12-06 08:38:06	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Scanner data TXT file: F:\GitHub\C4ISR_Inventory\WinCE\Doc2.pwd
+2019-12-06 08:38:06	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	16: CZC737843V
+2019-12-06 08:38:06	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	17: Y3Y80EA#ARL
+2019-12-06 08:38:06	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	18: 1044
+2019-12-06 08:38:06	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	19: 4VDHU
+2019-12-06 08:38:06	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	20: 00108828615352125984
+2019-12-06 08:38:06	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	21: 4006381316132
+2019-12-06 08:38:12	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Deleted scanned data range A2:A5000
+2019-12-06 08:38:12	DESKTOP-424KP6V	M3Class.SelectFile	debug	Select file WIN mode
+2019-12-06 08:38:15	DESKTOP-424KP6V	M3Class.GetTextData	debug	M3 lines read: 5
+2019-12-06 08:38:15	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Scanner data TXT file: F:\GitHub\C4ISR_Inventory\WinCE\INV_TEST.TXT
+2019-12-06 08:38:15	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	1: 4001475215476
+2019-12-06 08:38:15	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	2: 4001475215476
+2019-12-06 08:38:15	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	3: P00046730321
+2019-12-06 08:38:15	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	4: 8SSA10M42722C1SG74L89CF
+2019-12-06 08:38:15	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	5: 8SSA10E75793C1SG74L89CF
+2019-12-06 08:39:08	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Deleted scanned data range A2:A5000
+2019-12-06 08:39:08	DESKTOP-424KP6V	M3Class.SelectFile	debug	Select file WIN mode
+2019-12-06 08:39:11	DESKTOP-424KP6V	M3Class.GetTextData	debug	M3 lines read: 17
+2019-12-06 08:39:11	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Scanner data TXT file: F:\GitHub\C4ISR_Inventory\WinCE\Doc3.pwd
+2019-12-06 08:39:15	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Deleted scanned data range A2:A5000
+2019-12-06 08:39:15	DESKTOP-424KP6V	M3Class.SelectFile	debug	Select file WIN mode
+2019-12-06 08:39:17	DESKTOP-424KP6V	M3Class.GetTextData	debug	M3 lines read: 23
+2019-12-06 08:39:17	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Scanner data TXT file: F:\GitHub\C4ISR_Inventory\WinCE\Doc2.pwd
+2019-12-06 08:39:17	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	16: CZC737843V
+2019-12-06 08:39:17	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	17: Y3Y80EA#ARL
+2019-12-06 08:39:17	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	18: 1044
+2019-12-06 08:39:17	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	19: 4VDHU
+2019-12-06 08:39:17	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	20: 00108828615352125984
+2019-12-06 08:39:17	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	21: 4006381316132
+2019-12-06 08:39:39	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	Deleted scanned data range A2:A5000
+2019-12-06 08:39:39	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-06 08:39:39	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-06 08:39:39	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
+2019-12-06 08:39:39	DESKTOP-424KP6V	MotorolaCS3070Class.SelectFile	debug	Select file WIN mode
+2019-12-06 08:39:44	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	Scanner data TXT file: F:\GitHub\C4ISR_Inventory\BARCODES.TXT
+2019-12-06 08:39:44	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	1: 000006915834
+2019-12-06 08:39:44	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	2: 000006915834
+2019-12-06 08:39:44	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	3: 000006915834
+2019-12-06 08:39:44	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	4: CN
+2019-12-06 08:39:44	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	5: 1PCS3070-SR10007WW
+2019-12-06 08:39:44	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	6: S18341522503164
+2019-12-06 08:39:44	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	7: 2PP
+2019-12-06 08:39:44	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	8: D07DEC18
+2019-12-06 08:39:44	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	9: 000006819248
+2019-12-06 08:39:44	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	10: 000006819231
+2019-12-06 08:39:44	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	11: Y3Y80EA#ARL
+2019-12-06 08:39:44	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	12: CZC737843V
+2019-12-06 08:39:44	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	13: 000006819309
+2019-12-06 08:39:45	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	14: Y3Y80EA#ARL
+2019-12-06 08:39:45	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	15: CZC7519DWD
+2019-12-06 08:39:45	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	16: 10191158
+2019-12-06 08:39:45	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	17: 169.254.52.211
+2019-12-06 08:39:45	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromFile	debug	18: 5C8A389634D3
+2019-12-06 08:43:52	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-06 08:43:52	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-06 08:43:52	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Deleted scanned data range A2:A5000
+2019-12-06 08:43:52	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-06 08:43:52	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-06 08:43:52	DESKTOP-424KP6V	M3Class.Class_Initialize	debug	Class M3Class initialized
+2019-12-06 08:43:52	DESKTOP-424KP6V	M3Class.SelectFile	debug	Select file WIN mode
+2019-12-06 08:43:56	DESKTOP-424KP6V	M3Class.GetTextData	debug	M3 lines read: 23
+2019-12-06 08:43:56	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Scanner data TXT file: F:\GitHub\C4ISR_Inventory\WinCE\Doc2.pwd
+2019-12-06 08:44:37	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-06 08:44:37	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-06 08:44:37	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Deleted scanned data range A2:A5000
+2019-12-06 08:44:37	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-06 08:44:37	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-06 08:44:37	DESKTOP-424KP6V	M3Class.Class_Initialize	debug	Class M3Class initialized
+2019-12-06 08:44:37	DESKTOP-424KP6V	M3Class.SelectFile	debug	Select file WIN mode
+2019-12-06 08:44:39	DESKTOP-424KP6V	M3Class.GetTextData	debug	M3 lines read: 23
+2019-12-06 08:44:39	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Scanner data TXT file: F:\GitHub\C4ISR_Inventory\WinCE\Doc2.pwd
+2019-12-06 08:45:06	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-06 08:45:06	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-06 08:45:06	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Deleted scanned data range A2:A5000
+2019-12-06 08:45:06	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-06 08:45:06	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-06 08:45:06	DESKTOP-424KP6V	M3Class.Class_Initialize	debug	Class M3Class initialized
+2019-12-06 08:45:06	DESKTOP-424KP6V	M3Class.SelectFile	debug	Select file WIN mode
+2019-12-06 08:45:09	DESKTOP-424KP6V	M3Class.GetTextData	debug	M3 lines read: 23
+2019-12-06 08:45:09	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Scanner data TXT file: F:\GitHub\C4ISR_Inventory\WinCE\Doc2.pwd
+2019-12-06 08:45:09	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	16: CZC737843V
+2019-12-06 08:45:09	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	17: Y3Y80EA#ARL
+2019-12-06 08:45:09	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	18: 1044
+2019-12-06 08:45:09	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	19: 4VDHU
+2019-12-06 08:45:09	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	20: 00108828615352125984
+2019-12-06 08:45:09	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	21: 4006381316132
+2019-12-06 08:50:35	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-06 08:50:35	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-06 08:50:35	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Deleted scanned data range A2:A5000
+2019-12-06 08:50:35	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-06 08:50:35	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-06 08:50:35	DESKTOP-424KP6V	M3Class.Class_Initialize	debug	Class M3Class initialized
+2019-12-06 08:50:35	DESKTOP-424KP6V	M3Class.SelectFile	debug	Select file WIN mode
+2019-12-06 08:50:39	DESKTOP-424KP6V	M3Class.GetTextData	debug	M3 lines read: 5
+2019-12-06 08:50:39	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Scanner data TXT file: F:\GitHub\C4ISR_Inventory\WinCE\INV_TEST.TXT
+2019-12-06 08:50:39	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	1: 4001475215476
+2019-12-06 08:50:39	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	2: 4001475215476
+2019-12-06 08:50:39	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	3: P00046730321
+2019-12-06 08:50:39	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	4: 8SSA10M42722C1SG74L89CF
+2019-12-06 08:50:39	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	5: 8SSA10E75793C1SG74L89CF
+2019-12-06 08:50:41	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Deleted scanned data range A2:A5000
+2019-12-06 08:50:41	DESKTOP-424KP6V	M3Class.SelectFile	debug	Select file WIN mode
+2019-12-06 08:50:44	DESKTOP-424KP6V	M3Class.GetTextData	debug	M3 lines read: 23
+2019-12-06 08:50:44	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Scanner data TXT file: F:\GitHub\C4ISR_Inventory\WinCE\Doc2.pwd
+2019-12-06 08:50:44	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	16: CZC737843V
+2019-12-06 08:50:44	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	17: Y3Y80EA#ARL
+2019-12-06 08:50:44	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	18: 1044
+2019-12-06 08:50:44	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	19: 4VDHU
+2019-12-06 08:50:44	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	20: 00108828615352125984
+2019-12-06 08:50:44	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	21: 4006381316132
+2019-12-06 08:53:23	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Deleted scanned data range A2:A5000
+2019-12-06 08:53:23	DESKTOP-424KP6V	M3Class.SelectFile	debug	Select file WIN mode
+2019-12-06 08:53:25	DESKTOP-424KP6V	M3Class.GetTextData	debug	M3 lines read: 5
+2019-12-06 08:53:25	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Scanner data TXT file: F:\GitHub\C4ISR_Inventory\WinCE\INV_TEST.TXT
+2019-12-06 08:53:25	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	1: 4001475215476
+2019-12-06 08:53:25	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	2: 4001475215476
+2019-12-06 08:53:25	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	3: P00046730321
+2019-12-06 08:53:25	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	4: 8SSA10M42722C1SG74L89CF
+2019-12-06 08:53:25	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	5: 8SSA10E75793C1SG74L89CF
+2019-12-06 08:54:29	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Deleted scanned data range A2:A5000
+2019-12-06 08:54:29	DESKTOP-424KP6V	M3Class.SelectFile	debug	Select file WIN mode
+2019-12-06 08:54:32	DESKTOP-424KP6V	M3Class.GetTextData	debug	M3 lines read: 23
+2019-12-06 08:54:32	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	Scanner data TXT file: F:\GitHub\C4ISR_Inventory\WinCE\Doc2.pwd
+2019-12-06 08:54:32	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	16: CZC737843V
+2019-12-06 08:54:32	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	17: Y3Y80EA#ARL
+2019-12-06 08:54:32	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	18: 1044
+2019-12-06 08:54:32	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	19: 4VDHU
+2019-12-06 08:54:32	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	20: 00108828615352125984
+2019-12-06 08:54:32	DESKTOP-424KP6V	C4ISR_Inventory.ReadFromM3File	debug	21: 4006381316132
+2019-12-06 09:47:18	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-06 09:47:18	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-06 09:47:18	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win32 mode
+2019-12-06 09:56:38	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-06 09:56:38	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-06 09:56:38	DESKTOP-424KP6V	C4ISR_Inventory.Add2FullInventory	debug	Last row of Full Inventory sheet: 411
+2019-12-06 09:56:38	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-06 09:56:38	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-06 09:56:38	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
+2019-12-06 09:56:38	DESKTOP-424KP6V	MotorolaCS3070Class.SelectFile	debug	Select file WIN mode
+2019-12-06 09:57:03	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Cover page
+2019-12-06 09:57:03	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Revisions
+2019-12-06 09:57:03	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Acceptance
+2019-12-06 09:57:03	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Informations Pack
+2019-12-06 09:57:03	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: IRIS-H02-Inventory
+2019-12-06 09:57:03	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Inventory sheet: F:\GitHub\C4ISR_Inventory\ADS_INV_FILES\HUNC4-RO-DD-00020-01-04-IRIS-H02-Inventory.xlsx>IRIS-H02-Inventory
+2019-12-06 09:57:03	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Inventory items copied into database
+2019-12-06 09:58:21	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-06 09:58:21	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-06 09:58:21	DESKTOP-424KP6V	C4ISR_Inventory.Add2FullInventory	debug	Last row of Full Inventory sheet: 411
+2019-12-06 09:58:21	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-06 09:58:21	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-06 09:58:21	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
+2019-12-06 09:58:21	DESKTOP-424KP6V	MotorolaCS3070Class.SelectFile	debug	Select file WIN mode
+2019-12-06 09:58:26	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Cover page
+2019-12-06 09:58:26	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Revisions
+2019-12-06 09:58:26	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Acceptance
+2019-12-06 09:58:26	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Informations Pack
+2019-12-06 09:58:26	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: IRIS-H02-Inventory
+2019-12-06 09:58:26	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Inventory sheet: F:\GitHub\C4ISR_Inventory\ADS_INV_FILES\HUNC4-RO-DD-00020-01-04-IRIS-H02-Inventory.xlsx>IRIS-H02-Inventory
+2019-12-06 09:58:26	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Inventory items copied into database
+2019-12-06 09:58:32	DESKTOP-424KP6V	C4ISR_Inventory.AddToInventory	err	Subscript out of range
+2019-12-06 10:01:00	DESKTOP-424KP6V	C4ISR_Inventory.Add2FullInventory	debug	Last row of Full Inventory sheet: 411
+2019-12-06 10:01:00	DESKTOP-424KP6V	MotorolaCS3070Class.SelectFile	debug	Select file WIN mode
+2019-12-06 10:01:04	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Cover page
+2019-12-06 10:01:04	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Revisions
+2019-12-06 10:01:04	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Acceptance
+2019-12-06 10:01:04	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Informations Pack
+2019-12-06 10:01:04	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: IRIS-H02-Inventory
+2019-12-06 10:01:04	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Inventory sheet: F:\GitHub\C4ISR_Inventory\ADS_INV_FILES\HUNC4-RO-DD-00020-01-04-IRIS-H02-Inventory.xlsx>IRIS-H02-Inventory
+2019-12-06 10:01:04	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Inventory items copied into database
+2019-12-06 10:01:08	DESKTOP-424KP6V	C4ISR_Inventory.AddToInventory	err	Subscript out of range
+2019-12-06 10:01:51	DESKTOP-424KP6V	C4ISR_Inventory.Add2FullInventory	debug	Last row of Full Inventory sheet: 411
+2019-12-06 10:01:51	DESKTOP-424KP6V	MotorolaCS3070Class.SelectFile	debug	Select file WIN mode
+2019-12-06 10:01:56	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Cover page
+2019-12-06 10:01:56	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Revisions
+2019-12-06 10:01:56	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Acceptance
+2019-12-06 10:01:56	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Informations Pack
+2019-12-06 10:01:56	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: IRIS-H02-Inventory
+2019-12-06 10:01:56	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Inventory sheet: F:\GitHub\C4ISR_Inventory\ADS_INV_FILES\HUNC4-RO-DD-00020-01-04-IRIS-H02-Inventory.xlsx>IRIS-H02-Inventory
+2019-12-06 10:01:56	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Inventory items copied into database
+2019-12-06 10:02:00	DESKTOP-424KP6V	Add2FullInventoryAndInventory	err	Subscript out of range
+2019-12-06 10:06:17	DESKTOP-424KP6V	C4ISR_Inventory.Add2FullInventory	debug	Last row of Full Inventory sheet: 519
+2019-12-06 10:06:17	DESKTOP-424KP6V	MotorolaCS3070Class.SelectFile	debug	Select file WIN mode
+2019-12-06 10:06:25	DESKTOP-424KP6V	C4ISR_Inventory.Add2FullInventory	debug	Continue, but IRIS-H02 is in the list.
+2019-12-06 10:06:25	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Cover page
+2019-12-06 10:06:25	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Revisions
+2019-12-06 10:06:25	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Acceptance
+2019-12-06 10:06:25	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Informations Pack
+2019-12-06 10:06:25	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: IRIS-H02-Inventory
+2019-12-06 10:06:25	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Inventory sheet: F:\GitHub\C4ISR_Inventory\ADS_INV_FILES\HUNC4-RO-DD-00020-01-04-IRIS-H02-Inventory.xlsx>IRIS-H02-Inventory
+2019-12-06 10:06:25	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Inventory items copied into database
+2019-12-06 10:06:28	DESKTOP-424KP6V	C4ISR_Inventory.DeleteInventory	err	Method 'Range' of object '_Global' failed
+2019-12-06 10:07:01	DESKTOP-424KP6V	C4ISR_Inventory.Add2FullInventory	debug	Last row of Full Inventory sheet: 411
+2019-12-06 10:07:01	DESKTOP-424KP6V	MotorolaCS3070Class.SelectFile	debug	Select file WIN mode
+2019-12-06 10:07:05	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Cover page
+2019-12-06 10:07:05	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Revisions
+2019-12-06 10:07:05	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Acceptance
+2019-12-06 10:07:05	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Informations Pack
+2019-12-06 10:07:05	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: IRIS-H02-Inventory
+2019-12-06 10:07:05	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Inventory sheet: F:\GitHub\C4ISR_Inventory\ADS_INV_FILES\HUNC4-RO-DD-00020-01-04-IRIS-H02-Inventory.xlsx>IRIS-H02-Inventory
+2019-12-06 10:07:05	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Inventory items copied into database
+2019-12-06 10:07:09	DESKTOP-424KP6V	C4ISR_Inventory.DeleteInventory	err	Method 'Range' of object '_Global' failed
+2019-12-06 10:08:10	DESKTOP-424KP6V	C4ISR_Inventory.Add2FullInventory	debug	Last row of Full Inventory sheet: 411
+2019-12-06 10:08:10	DESKTOP-424KP6V	MotorolaCS3070Class.SelectFile	debug	Select file WIN mode
+2019-12-06 10:08:15	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Cover page
+2019-12-06 10:08:15	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Revisions
+2019-12-06 10:08:15	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Acceptance
+2019-12-06 10:08:15	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Informations Pack
+2019-12-06 10:08:15	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: IRIS-H02-Inventory
+2019-12-06 10:08:15	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Inventory sheet: F:\GitHub\C4ISR_Inventory\ADS_INV_FILES\HUNC4-RO-DD-00020-01-04-IRIS-H02-Inventory.xlsx>IRIS-H02-Inventory
+2019-12-06 10:08:15	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Inventory items copied into database
+2019-12-06 10:08:19	DESKTOP-424KP6V	Add2FullInventoryAndInventory	err	Subscript out of range
+2019-12-06 10:14:22	DESKTOP-424KP6V	C4ISR_Inventory.Add2FullInventory	debug	Last row of Full Inventory sheet: 519
+2019-12-06 10:14:22	DESKTOP-424KP6V	MotorolaCS3070Class.SelectFile	debug	Select file WIN mode
+2019-12-06 10:14:29	DESKTOP-424KP6V	C4ISR_Inventory.Add2FullInventory	debug	Continue, but IRIS-H02 is in the list.
+2019-12-06 10:14:29	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Cover page
+2019-12-06 10:14:29	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Revisions
+2019-12-06 10:14:29	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Acceptance
+2019-12-06 10:14:29	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Informations Pack
+2019-12-06 10:14:29	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: IRIS-H02-Inventory
+2019-12-06 10:14:29	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Inventory sheet: F:\GitHub\C4ISR_Inventory\ADS_INV_FILES\HUNC4-RO-DD-00020-01-04-IRIS-H02-Inventory.xlsx>IRIS-H02-Inventory
+2019-12-06 10:14:29	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Inventory items copied into database
+2019-12-06 10:14:32	DESKTOP-424KP6V	C4ISR_Inventory.DeleteInventory	debug	Deleted range: A2:H2
+2019-12-06 10:14:33	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Cover page
+2019-12-06 10:14:33	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Revisions
+2019-12-06 10:14:33	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Acceptance
+2019-12-06 10:14:33	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Informations Pack
+2019-12-06 10:14:33	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: IRIS-H02-Inventory
+2019-12-06 10:14:33	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Inventory sheet: F:\GitHub\C4ISR_Inventory\ADS_INV_FILES\HUNC4-RO-DD-00020-01-04-IRIS-H02-Inventory.xlsx>IRIS-H02-Inventory
+2019-12-06 10:14:34	DESKTOP-424KP6V	C4ISR_Inventory.AddToInventory	debug	Inventory items copied into database
+2019-12-06 10:15:31	DESKTOP-424KP6V	C4ISR_Inventory.Add2FullInventory	debug	Last row of Full Inventory sheet: 411
+2019-12-06 10:15:31	DESKTOP-424KP6V	MotorolaCS3070Class.SelectFile	debug	Select file WIN mode
+2019-12-06 10:15:34	DESKTOP-424KP6V	MotorolaCS3070Class.SelectFile	debug	Nothing selected
+2019-12-06 10:15:43	DESKTOP-424KP6V	C4ISR_Inventory.Add2FullInventory	debug	Last row of Full Inventory sheet: 411
+2019-12-06 10:15:43	DESKTOP-424KP6V	MotorolaCS3070Class.SelectFile	debug	Select file WIN mode
+2019-12-06 10:15:49	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Cover page
+2019-12-06 10:15:49	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Revisions
+2019-12-06 10:15:49	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Acceptance
+2019-12-06 10:15:49	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Informations Pack
+2019-12-06 10:15:49	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: IRIS-H02-Inventory
+2019-12-06 10:15:49	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Inventory sheet: F:\GitHub\C4ISR_Inventory\ADS_INV_FILES\HUNC4-RO-DD-00020-01-04-IRIS-H02-Inventory.xlsx>IRIS-H02-Inventory
+2019-12-06 10:15:49	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Inventory items copied into database
+2019-12-06 10:15:54	DESKTOP-424KP6V	C4ISR_Inventory.DeleteInventory	debug	Deleted range: A2:H109
+2019-12-06 10:15:56	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Cover page
+2019-12-06 10:15:56	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Revisions
+2019-12-06 10:15:56	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Acceptance
+2019-12-06 10:15:56	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Informations Pack
+2019-12-06 10:15:56	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: IRIS-H02-Inventory
+2019-12-06 10:15:56	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Inventory sheet: F:\GitHub\C4ISR_Inventory\ADS_INV_FILES\HUNC4-RO-DD-00020-01-04-IRIS-H02-Inventory.xlsx>IRIS-H02-Inventory
+2019-12-06 10:15:56	DESKTOP-424KP6V	C4ISR_Inventory.AddToInventory	debug	Inventory items copied into database
+2019-12-06 10:16:16	DESKTOP-424KP6V	C4ISR_Inventory.DeleteInventory	debug	Deleted range: A2:H109
+2019-12-06 10:16:18	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Cover page
+2019-12-06 10:16:18	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Revisions
+2019-12-06 10:16:18	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Acceptance
+2019-12-06 10:16:18	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Informations Pack
+2019-12-06 10:16:18	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: IRIS-H02-Inventory
+2019-12-06 10:16:18	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Inventory sheet: F:\GitHub\C4ISR_Inventory\ADS_INV_FILES\HUNC4-RO-DD-00020-01-04-IRIS-H02-Inventory.xlsx>IRIS-H02-Inventory
+2019-12-06 10:16:18	DESKTOP-424KP6V	C4ISR_Inventory.AddToInventory	debug	Inventory items copied into database
+2019-12-06 10:20:06	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-06 10:20:07	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-06 10:20:07	DESKTOP-424KP6V	C4ISR_Inventory.Add2FullInventory	debug	Last row of Full Inventory sheet: 411
+2019-12-06 10:20:07	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-06 10:20:07	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-06 10:20:07	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
+2019-12-06 10:20:07	DESKTOP-424KP6V	MotorolaCS3070Class.SelectFile	debug	Select file WIN mode
+2019-12-06 10:20:11	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Cover page
+2019-12-06 10:20:11	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Revisions
+2019-12-06 10:20:11	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Acceptance
+2019-12-06 10:20:11	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Informations Pack
+2019-12-06 10:20:11	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: IRIS-H02-Inventory
+2019-12-06 10:20:11	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Inventory sheet: F:\GitHub\C4ISR_Inventory\ADS_INV_FILES\HUNC4-RO-DD-00020-01-04-IRIS-H02-Inventory.xlsx>IRIS-H02-Inventory
+2019-12-06 10:20:11	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Inventory items copied into database
+2019-12-06 10:20:38	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-06 10:20:38	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-06 10:20:38	DESKTOP-424KP6V	C4ISR_Inventory.Add2FullInventory	debug	Last row of Full Inventory sheet: 411
+2019-12-06 10:20:38	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-06 10:20:38	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-06 10:20:38	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
+2019-12-06 10:20:38	DESKTOP-424KP6V	MotorolaCS3070Class.SelectFile	debug	Select file WIN mode
+2019-12-06 10:20:42	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Cover page
+2019-12-06 10:20:42	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Revisions
+2019-12-06 10:20:42	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Acceptance
+2019-12-06 10:20:42	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Informations Pack
+2019-12-06 10:20:42	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: IRIS-H02-Inventory
+2019-12-06 10:20:42	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Inventory sheet: F:\GitHub\C4ISR_Inventory\ADS_INV_FILES\HUNC4-RO-DD-00020-01-04-IRIS-H02-Inventory.xlsx>IRIS-H02-Inventory
+2019-12-06 10:20:42	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Inventory items copied into database
+2019-12-06 10:21:51	DESKTOP-424KP6V	C4ISR_Inventory.DeleteInventory	debug	Deleted range: A2:H109
+2019-12-06 10:21:53	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Cover page
+2019-12-06 10:21:53	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Revisions
+2019-12-06 10:21:53	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Acceptance
+2019-12-06 10:21:53	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Informations Pack
+2019-12-06 10:21:53	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: IRIS-H02-Inventory
+2019-12-06 10:21:53	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Inventory sheet: F:\GitHub\C4ISR_Inventory\ADS_INV_FILES\HUNC4-RO-DD-00020-01-04-IRIS-H02-Inventory.xlsx>IRIS-H02-Inventory
+2019-12-06 10:21:53	DESKTOP-424KP6V	C4ISR_Inventory.AddToInventory	debug	Inventory items copied into database
+2019-12-06 10:24:28	DESKTOP-424KP6V	C4ISR_Inventory.Add2FullInventory	debug	Last row of Full Inventory sheet: 411
+2019-12-06 10:24:28	DESKTOP-424KP6V	MotorolaCS3070Class.SelectFile	debug	Select file WIN mode
+2019-12-06 10:24:33	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Cover page
+2019-12-06 10:24:33	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Revisions
+2019-12-06 10:24:33	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Acceptance
+2019-12-06 10:24:33	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Informations Pack
+2019-12-06 10:24:33	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: IRIS-H02-Inventory
+2019-12-06 10:24:33	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Inventory sheet: F:\GitHub\C4ISR_Inventory\ADS_INV_FILES\HUNC4-RO-DD-00020-01-04-IRIS-H02-Inventory.xlsx>IRIS-H02-Inventory
+2019-12-06 10:24:33	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Inventory items copied into database
+2019-12-06 10:24:39	DESKTOP-424KP6V	C4ISR_Inventory.DeleteInventory	debug	Deleted range: A2:H109
+2019-12-06 10:26:14	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-06 10:26:14	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-06 10:26:14	DESKTOP-424KP6V	C4ISR_Inventory.Add2FullInventory	debug	Last row of Full Inventory sheet: 411
+2019-12-06 10:26:14	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2019-12-06 10:26:14	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2019-12-06 10:26:14	DESKTOP-424KP6V	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
+2019-12-06 10:26:14	DESKTOP-424KP6V	MotorolaCS3070Class.SelectFile	debug	Select file WIN mode
+2019-12-06 10:26:18	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Cover page
+2019-12-06 10:26:18	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Revisions
+2019-12-06 10:26:18	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Acceptance
+2019-12-06 10:26:18	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Informations Pack
+2019-12-06 10:26:18	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: IRIS-H02-Inventory
+2019-12-06 10:26:18	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Inventory sheet: F:\GitHub\C4ISR_Inventory\ADS_INV_FILES\HUNC4-RO-DD-00020-01-04-IRIS-H02-Inventory.xlsx>IRIS-H02-Inventory
+2019-12-06 10:26:19	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Inventory items copied into database
+2019-12-06 10:26:23	DESKTOP-424KP6V	C4ISR_Inventory.DeleteInventory	debug	Deleted range: A2:H2
+2019-12-06 10:26:23	DESKTOP-424KP6V	MotorolaCS3070Class.SelectFile	debug	Select file WIN mode
+2019-12-06 10:26:30	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Cover page
+2019-12-06 10:26:30	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Revisions
+2019-12-06 10:26:30	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Acceptance
+2019-12-06 10:26:30	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Informations Pack
+2019-12-06 10:26:30	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: IRIS-I02-Inventory
+2019-12-06 10:26:30	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Inventory sheet: F:\GitHub\C4ISR_Inventory\ADS_INV_FILES\HUNC4-RO-DD-00022-01-04-IRIS-I02-Inventory.xlsx>IRIS-I02-Inventory
+2019-12-06 10:26:30	DESKTOP-424KP6V	C4ISR_Inventory.AddToInventory	debug	Inventory items copied into database
+2019-12-06 10:26:47	DESKTOP-424KP6V	C4ISR_Inventory.Add2FullInventory	debug	Last row of Full Inventory sheet: 411
+2019-12-06 10:26:47	DESKTOP-424KP6V	MotorolaCS3070Class.SelectFile	debug	Select file WIN mode
+2019-12-06 10:26:52	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Cover page
+2019-12-06 10:26:52	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Revisions
+2019-12-06 10:26:52	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Acceptance
+2019-12-06 10:26:52	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: Informations Pack
+2019-12-06 10:26:52	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Sheet Name: IRIS-H02-Inventory
+2019-12-06 10:26:52	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Inventory sheet: F:\GitHub\C4ISR_Inventory\ADS_INV_FILES\HUNC4-RO-DD-00020-01-04-IRIS-H02-Inventory.xlsx>IRIS-H02-Inventory
+2019-12-06 10:26:52	DESKTOP-424KP6V	C4ISR_Inventory.AddToFullInventory	debug	Inventory items copied into database
+2019-12-06 10:26:54	DESKTOP-424KP6V	C4ISR_Inventory.DeleteInventory	debug	Deleted range: A2:H102
+2019-12-06 10:26:56	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Cover page
+2019-12-06 10:26:56	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Revisions
+2019-12-06 10:26:56	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Acceptance
+2019-12-06 10:26:56	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Informations Pack
+2019-12-06 10:26:56	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: IRIS-H02-Inventory
+2019-12-06 10:26:56	DESKTOP-424KP6V	C4ISR_Inventory.Add2Inventory	debug	Inventory sheet: F:\GitHub\C4ISR_Inventory\ADS_INV_FILES\HUNC4-RO-DD-00020-01-04-IRIS-H02-Inventory.xlsx>IRIS-H02-Inventory
+2019-12-06 10:26:56	DESKTOP-424KP6V	C4ISR_Inventory.AddToInventory	debug	Inventory items copied into database
