@@ -451,3 +451,12 @@
 2019-12-06 14:08:55	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
 2019-12-06 14:08:57	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToFRA	debug	Switched to French keyboard
 2019-12-06 14:09:00	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2020-01-17 08:40:02	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2020-01-17 08:40:02	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2020-01-17 08:40:02	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win32 mode
+2020-01-24 09:38:11	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2020-01-24 09:38:11	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2020-01-24 09:38:11	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win32 mode
+2020-01-24 09:39:51	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: F:\GitHub\C4ISR_Inventory\program.log
+2020-01-24 09:39:51	DESKTOP-424KP6V	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2020-01-24 09:39:51	DESKTOP-424KP6V	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win32 mode
