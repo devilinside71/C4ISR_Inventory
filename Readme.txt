@@ -13,7 +13,11 @@
 13., -Feltételes formázás hibák
 14., -Menürendszer
 
-
+TODO:
+Megnyitáskor system lang érzékelés és nyelv beállítás
+Ha "ö" vagy "Ö" van benne, akkor felugró ablak, hogy rossz a nyelv
+Settings?
+Controll cross-check
 
 TODO:
 Mac keyboard
