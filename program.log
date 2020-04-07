@@ -508,3 +508,63 @@
 2020-03-26 08:18:25	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
 2020-03-26 08:18:25	DESKTOP-OVRCK8H	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
 2020-03-26 08:18:25	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2020-04-02 12:07:20	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: C:\Users\Tamás László9\Documents\GitHub\C4ISR_Inventory\program.log
+2020-04-02 12:07:20	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2020-04-02 12:07:20	DESKTOP-OVRCK8H	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win64 mode
+2020-04-02 12:07:20	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: C:\Users\Tamás László9\Documents\GitHub\C4ISR_Inventory\program.log
+2020-04-02 12:07:20	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2020-04-02 12:07:20	DESKTOP-OVRCK8H	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
+2020-04-02 12:07:20	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2020-04-03 05:50:00	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: C:\Users\Tamás László9\Documents\GitHub\C4ISR_Inventory\program.log
+2020-04-03 05:50:00	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2020-04-03 05:50:00	DESKTOP-OVRCK8H	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win64 mode
+2020-04-03 05:50:00	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: C:\Users\Tamás László9\Documents\GitHub\C4ISR_Inventory\program.log
+2020-04-03 05:50:00	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2020-04-03 05:50:00	DESKTOP-OVRCK8H	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
+2020-04-03 05:50:00	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2020-04-04 16:15:39	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: C:\Users\Tamás László9\Documents\GitHub\C4ISR_Inventory\program.log
+2020-04-04 16:15:39	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2020-04-04 16:15:39	DESKTOP-OVRCK8H	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win64 mode
+2020-04-04 16:15:39	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: C:\Users\Tamás László9\Documents\GitHub\C4ISR_Inventory\program.log
+2020-04-04 16:15:39	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2020-04-04 16:15:39	DESKTOP-OVRCK8H	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
+2020-04-04 16:15:39	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2020-04-04 16:30:40	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: C:\Users\Tamás László9\Documents\GitHub\C4ISR_Inventory\program.log
+2020-04-04 16:30:40	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2020-04-04 16:30:40	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2FullInventory	debug	Last row of Full Inventory sheet: 685
+2020-04-04 16:30:40	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: C:\Users\Tamás László9\Documents\GitHub\C4ISR_Inventory\program.log
+2020-04-04 16:30:40	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2020-04-04 16:30:40	DESKTOP-OVRCK8H	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
+2020-04-04 16:30:40	DESKTOP-OVRCK8H	MotorolaCS3070Class.SelectFile	debug	Select file WIN mode
+2020-04-04 16:30:42	DESKTOP-OVRCK8H	MotorolaCS3070Class.SelectFile	debug	Nothing selected
+2020-04-05 04:17:56	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: C:\Users\Tamás László9\Documents\GitHub\C4ISR_Inventory\program.log
+2020-04-05 04:17:56	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2020-04-05 04:17:56	DESKTOP-OVRCK8H	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win64 mode
+2020-04-05 04:17:56	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: C:\Users\Tamás László9\Documents\GitHub\C4ISR_Inventory\program.log
+2020-04-05 04:17:56	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2020-04-05 04:17:56	DESKTOP-OVRCK8H	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
+2020-04-05 04:17:56	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2020-04-06 13:33:35	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: C:\Users\Tamás László9\Documents\GitHub\C4ISR_Inventory\program.log
+2020-04-06 13:33:35	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2020-04-06 13:33:35	DESKTOP-OVRCK8H	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win64 mode
+2020-04-06 13:33:35	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: C:\Users\Tamás László9\Documents\GitHub\C4ISR_Inventory\program.log
+2020-04-06 13:33:35	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2020-04-06 13:33:35	DESKTOP-OVRCK8H	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
+2020-04-06 13:33:35	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2020-04-07 08:20:41	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: C:\Users\Tamás László9\Documents\GitHub\C4ISR_Inventory\program.log
+2020-04-07 08:20:41	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2020-04-07 08:20:41	DESKTOP-OVRCK8H	C4ISR_Inventory.C4ISR_Inventory_Start	info	Program start in Win64 mode
+2020-04-07 08:20:41	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For PathToLogfile: C:\Users\Tamás László9\Documents\GitHub\C4ISR_Inventory\program.log
+2020-04-07 08:20:41	DESKTOP-OVRCK8H	LoggerClass.Class_Initialize	debug	ProjectClass Default value For Delimiter: 	
+2020-04-07 08:20:41	DESKTOP-OVRCK8H	MotorolaCS3070Class.Class_Initialize	debug	Class MotorolaCS3070Class initialized
+2020-04-07 08:20:41	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToHUN	debug	Switched to Hungarian keyboard
+2020-04-07 08:29:27	DESKTOP-OVRCK8H	C4ISR_Inventory.DeleteInventory	debug	Deleted range: A2:H155
+2020-04-07 08:29:27	DESKTOP-OVRCK8H	MotorolaCS3070Class.SelectFile	debug	Select file WIN mode
+2020-04-07 08:30:50	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Cover page
+2020-04-07 08:30:50	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Revisions
+2020-04-07 08:30:50	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Acceptance
+2020-04-07 08:30:50	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: Informations Pack
+2020-04-07 08:30:50	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2Inventory	debug	Sheet Name: IRIS-G01-Inventory
+2020-04-07 08:30:50	DESKTOP-OVRCK8H	C4ISR_Inventory.Add2Inventory	debug	Inventory sheet: C:\Users\Tamás László9\Google Drive\HM_EI\CSAT\CSAT_0205-0221\CSAT_20200212\FRA\HUNC4-RO-DD-00009-01-06-IRIS-G01-Inventory.xlsx>IRIS-G01-Inventory
+2020-04-07 08:30:51	DESKTOP-OVRCK8H	C4ISR_Inventory.AddToInventory	debug	Inventory items copied into database
+2020-04-07 08:47:00	DESKTOP-OVRCK8H	MotorolaCS3070Class.SwitchToENG	debug	Switched to English(US) keyboard
